@@ -1,0 +1,40 @@
+.footer1 .main-footer .footer-top {
+    border-bottom: none;
+}
+.footer1 .main-footer .footer-top .about-widget .text {
+    color: #fff!important;
+}
+.footer1 .main-footer .footer-top .widget-title {
+    color: #fff!important;
+}
+
+.footer1 .main-footer .footer-top .links-widget .list li a {
+    color: #fff!important;
+}
+.footer1 .main-footer .footer-top .contact-widget .list li {
+    color: #fff!important;
+}
+.footer1 .main-footer .footer-top .links-widget .list li a:before {
+    color: #fff!important;
+}
+.footer1 .main-footer .footer-top .about-widget .social-links h6{
+    color: #fff!important;
+}
+.footer1 .main-footer .footer-top .about-widget .social-links li a{
+    color: #fff!important;
+}
+
+
+
+.footer2 {
+    position: relative;
+    padding-top: 0px;
+    background-image: -webkit-linear-gradient(-90deg, #0042ff 0%, #6300c7 100%);
+}
+.footer2copy .main-footer.style-three {
+    background-image: none;
+}
+.extra .image.wow.slideInRight.animated {
+    background: transparent!important;
+}
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */

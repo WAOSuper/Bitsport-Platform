@@ -1,0 +1,301 @@
+/*===== Footer Extra CSS =====*/
+
+
+.boxed_wrapper{
+  position: relative;
+  margin: 0 auto;
+  overflow: hidden;
+  width: 100%;
+  min-width: 300px;
+}
+
+.footer-box{
+	position: fixed;
+	background: #2220;
+	height: 339px;
+	overflow: hidden;
+	width: 184px;
+	top: 101px;
+	right: 0px;
+	z-index: 999;
+}
+
+.product-sidebar .social-links{
+	position: absolute;
+	top: 150px;
+	right: -130px;
+	padding: 0px;
+	margin: 0px;
+  z-index: 9999999;
+  -webkit-transition: right .3s ease;
+  -moz-transition: right .3s ease;
+  transition: right .3s ease;
+}
+
+.product-sidebar .xs-sidebar-group.isActive .social-links{
+  right: 270px;
+}
+
+.product-sidebar .social-links li{
+	position: relative;
+	display: block;
+	list-style: none;
+	height: 45px;
+	line-height: 45px;
+	text-align: center;
+	position: relative;
+	background-color: #3064ee;
+	color: #fff;
+	cursor: pointer;
+	left: 0px;
+	white-space: nowrap;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	-ms-transition: all .2s ease-in-out;
+	transition: all .2s ease-in-out;
+}
+
+.product-sidebar .social-links li:hover {
+  left: -130px;
+}
+
+.product-sidebar .social-links li .icon{
+  display: inline-block;
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+  border-radius: 0!important;
+  transition: opacity .2s ease;
+  color: inherit;
+}
+
+.product-sidebar .social-links li:hover span{
+  visibility: visible;
+  opacity: 1;
+  right: 110%;
+}
+
+.product-sidebar .social-links li span {
+  font-family: 'Nunito Sans',Sans-serif;
+  font-size: 13px;
+  width: 130px;
+  height: 45px;
+  font-weight: 400;
+  line-height: 45px;
+  text-align: center;
+  transition: all .2s ease;
+  padding: 0;
+  box-sizing: border-box;
+  background: rgba(0,0,0,.24);
+  border-radius: 0;
+  display: block;
+  float: right;
+  color: inherit;
+}
+
+.product-sidebar .social-links li a{
+  color: #fff;
+  text-decoration: none;
+}
+
+.product-sidebar .social-links li:nth-child(2){
+	background: #8138f7;
+}
+
+.product-sidebar .social-links li:nth-child(3){
+	background: #7ac7c4
+}
+
+.product-sidebar .social-links li:last-child{
+	background: #fd5d14;
+}
+
+
+/** sidebar **/
+
+.xs-sidebar-group .xs-overlay{
+  left:0%;
+  top:0;
+  position:fixed;
+  height:100%;
+  opacity:0;
+  width:100%;
+  visibility:hidden;
+  cursor:url(https://old3.commonsupport.com/rinbuild/wp-content/uploads/2020/06/cross-out.png),
+  pointer; 
+  z-index: 999999;
+}
+
+.xs-sidebar-group.isActive .xs-overlay{
+  opacity:.9;
+  visibility:visible;
+  right:100%;
+}
+
+.xs-sidebar-widget{
+  position: fixed;
+  right: -400px;
+  top: 0;
+  background-color: #fff;
+  width: 400px;
+  height: 100%;
+  z-index: 9999999;
+  -webkit-transition: right .3s ease;
+  -moz-transition: right .3s ease;
+  transition: right .3s ease;
+}
+
+.xs-sidebar-group.isActive .xs-sidebar-widget{
+  right: 0px;
+}
+
+.xs-bg-black {
+  background-color: rgb(0,0,0,0.5);
+}
+
+.product-sidebar .sidebar-widget-container{
+  position: absolute;
+  right: -17px;
+  top: 0;
+  height: 100%;
+  width: 417px;
+  padding: 30px;
+  background: #fff;
+  border-left: 1px solid #dcdcdc;
+  color: #111;
+  font-size: 14px;
+  line-height: 1.7;
+  overflow-x: hidden;
+  overflow-y: auto;
+  box-sizing: border-box;
+}
+
+.product-sidebar .sidebar-content .btn-box{
+  margin-bottom: 30px;
+}
+
+.product-sidebar .sidebar-content .btn-box a{
+  position: relative;
+  display: block;
+  background: #222;
+  font-size: 15px;
+  text-transform: uppercase;
+  color: #fff;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.product-sidebar .sidebar-content .single-box .title-box{
+  position: relative;
+  z-index: 1;
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.product-sidebar .sidebar-content .single-box .title-box .line{
+  position: relative;
+  display: block;
+  height: 1px;
+  background: #e5e5e5;
+  width: 100%;
+  flex: 1;
+}
+
+.product-sidebar .sidebar-content .single-box .title-box .line:before {
+  content: '';
+  position: absolute;
+  z-index: 1;
+  height: 3px;
+  width: 40px;
+  background: #f73859;
+  border-radius: 1.5px;
+  right: 0;
+  top: 50%;
+  margin-top: -1.5px;
+}
+
+.product-sidebar .sidebar-content .single-box .title-box h5{
+  position: relative;
+  display: inline-block;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 400;
+  color: #222;
+  background: #fff;
+  padding: 5px 10px;
+  border-radius: 3px;
+  text-align: center;
+  text-transform: uppercase;
+  margin: 0px;
+  margin-right: 20px;
+  box-shadow: 0 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-sidebar .sidebar-content .single-box .image{
+  position: relative;
+  margin: 0px;
+  box-shadow: 5px 4px 16px 0 rgba(0,0,0,.15);
+  margin-bottom: 10px;
+}
+
+.product-sidebar .sidebar-content .single-box .image img{
+  width: 100%;
+}
+
+.product-sidebar .sidebar-content .single-box .item-name{
+  position: relative;
+  display: block;
+}
+
+.product-sidebar .sidebar-content .single-box .item-name h6{
+  position: relative;
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 600;
+  color: #222;
+  margin: 0px;
+}
+
+.product-sidebar .sidebar-content .single-box .item-name h6 a{
+  color: #222;
+  text-decoration: none;
+}
+
+.product-sidebar .sidebar-content .single-box .item-name .price{
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  font-size: 16px;
+  color: red;
+}
+
+.product-sidebar .sidebar-content .single-box .item-name .price del{
+  color: #848484;
+}
+
+.product-sidebar .sidebar-content .single-box{
+  margin-bottom: 30px;
+}
+
+.product-sidebar .sidebar-content .single-box .single-item{
+  margin-bottom: 20px;
+}
+@media only screen and (max-width: 767px){
+	
+	
+.footer-box{
+
+display: none;
+
+}
+	
+	
+.switcher{
+
+display: none;
+	
+} 
+}

@@ -1,0 +1,82 @@
+/*
+Theme Name: appway
+Theme URI: https://old3.commonsupport.com/appway/
+Author: tonatheme
+Author URI: https://themeforest.net/user/tonatheme
+Description: This is Appway Business Solution theme
+Version: 2.0.0
+License: copyright commercial
+Tested up to:5.7
+Requires PHP:7.0
+License URI: https://themeforest.net/user/tonatheme/portfolio
+Text Domain: appway
+Tags: one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, rtl-language-support, sticky-post, translation-ready, microformats
+*/
+
+.wp-caption {
+	margin-bottom: 2px;
+}
+
+.wp-caption-text {
+	margin-bottom: 5px;
+}
+
+.screen-reader-text {
+	margin-bottom: 12px;
+}
+
+.gallery-caption {
+	margin-bottom: 2px;
+}
+
+.bypostauthor {
+	margin-bottom: 2px;
+}
+
+.alignleft {
+	float: left;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	max-width: 100%;
+	width: unset !important;
+}
+
+.alignright {
+	float: right !important;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	max-width: 100%;
+	width: unset !important;
+}
+
+.aligncenter {
+	display: block;
+	margin: 0 auto 20px;
+}
+
+.col-md-4 .funfact-meta > i {
+	right: 27px;
+}
+
+.mycustom-pricing {
+	background-color: #090909 !important;
+}
+
+.on-hover {
+	display: none;
+	animation: fadeOut 0.5s;
+}
+
+.hver:hover .on-hover {
+	display: block;
+	animation: fadeIn 0.5s;
+}
+.fa, .fas, .far, .fal, .fab {
+    font-family: 'Font Awesome 5 Brands';
+}
+.extra .image.wow.slideInRight.animated {
+    background: transparent!important;
+}
+.mr_side_right{
+	order:2!important;
+}

@@ -1,0 +1,36 @@
+/* jQuery Countdown styles 2.0.0. */
+.is-countdown {
+    color: #fff;
+    height: 100%;
+	font-size:2em;
+	text-transform:uppercase;
+	letter-spacing:0.1em;
+	font-weight:700;
+	
+}
+.countdown-amount{
+	margin-right:1%;
+	font-size:3.5em;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:100;
+	
+}
+
+.countdown-row{
+	display:block;
+	width:50%;
+	margin:0 auto;
+}
+.countdown-section{
+	width:25%;
+	float:left;
+}
+
+.countdown-period{
+	width:100%;
+	
+	font-size:0.5em;
+	font-weight:600;
+	display:block;	
+	letter-spacing:.5em;
+}

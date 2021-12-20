@@ -1,0 +1,196 @@
+.language-switcher-uploader .language-file {
+    float: left;
+    height: 50px;
+    position: relative;
+    width: 100%;
+}
+
+.language-switcher-uploader .language-file > input {
+    border: 3px solid #f3f3f3;
+    color: #858585;
+    cursor: pointer;
+    float: left;
+    font-family: segoe ui;
+    font-size: 12px;
+    font-weight: 700;
+    height: 100%;
+    padding-left: 55px !important;
+    width: 100%;
+}
+
+.language-switcher-uploader .language-file > label {
+    background: #323232 none repeat scroll 0 0;
+    color: #fff;
+    cursor: pointer;
+    font-family: segoe ui;
+    font-size: 12px;
+    font-weight: 700;
+    height: 100%;
+    left: 0;
+    line-height: 49px;
+    margin: 0 !important;
+    padding: 0 30px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 0;
+}
+
+.language-switcher-uploader .language-file > label i {
+    margin-right: 10px;
+}
+
+.language-switcher-uploader .form-wrap a,
+a#delete-language-file {
+    background: #17b1cd none repeat scroll 0 0;
+    border: 0 none;
+    color: #fff;
+    cursor: pointer;
+    float: left;
+    font-family: segoe ui;
+    font-size: 12px;
+    font-weight: 700;
+    margin: 20px 0;
+    padding: 20px 40px;
+    text-transform: uppercase;
+}
+
+.language-switcher-uploader .form-wrap a i,
+a#delete-language-file > i {
+    margin-right: 10px;
+}
+
+a#delete-language-file {
+    float: right;
+    text-decoration: none;
+}
+
+.language-switcher-uploader .select2-choice {
+    background: transparent none repeat scroll 0 0 !important;
+    border: 3px solid #f3f3f3 !important;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+    -webkit-box-shadow: none !important;
+    -moz-box-shadow: none !important;
+    -ms-box-shadow: none !important;
+    -o-box-shadow: none !important;
+    box-shadow: none !important;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+    float: left;
+    height: 50px;
+    padding: 0 30px;
+    width: 100% !important;
+}
+
+.language-switcher-uploader .select2-container {
+    float: left;
+    width: 100% !important;
+}
+
+.language-switcher-uploader .select2-choice > span {
+    font-family: segoe ui;
+    font-size: 12px;
+    height: 100% !important;
+    line-height: 45px !important;
+}
+
+.language-switcher-uploader .select2-choice > span.select2-arrow {
+    background: transparent none repeat scroll 0 0;
+    border: 0 none;
+    width: 20px;
+}
+
+.language-switcher-uploader .select2-choice > span.select2-arrow > b {
+    background-position: -3px 10px;
+}
+
+.language-switcher-uploader .select2-dropdown-open .select2-choice > span.select2-arrow > b {
+    background-position: -22px 10px;
+}
+
+.language-switcher-uploader .progress-bar {
+    background: #17b1cd none repeat scroll 0 0;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    float: left;
+    height: 15px;
+    width: 100%;
+}
+
+.language-switcher-uploader #progress-wrp {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    display: none;
+    float: left;
+    margin-top: 0;
+    position: relative;
+    width: 100%;
+}
+
+.language-switcher-uploader .status {
+    color: #1a1a1a;
+    font-family: segoe ui;
+    font-size: 11px;
+    font-weight: 700;
+    position: absolute;
+    right: 20px;
+    top: 0;
+}
+
+.language-select2 {
+    border: 0 none;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
+.language-select2 > ul > li {
+    background: #f5f5f5 !important;
+    color: #858585 !important;
+    float: left;
+    font-size: 12px;
+    line-height: 40px;
+    margin: 0;
+    padding-left: 30px;
+    width: 100%;
+}
+
+.language-select2 .select2-results {
+    margin: 10px 0 0;
+    padding: 0;
+}
+
+.language-select2 .select2-search {
+    padding: 0;
+}
+
+.language-select2 > ul > li:nth-child(2n) {
+    background: #f9f9f9 !important;
+}
+
+.language-switcher-uploader .select2-container.select2-allowclear .select2-choice abbr {
+    display: block;
+    position: absolute;
+    top: 16px;
+}
+
+.form-wrap div#error-log {
+    float: left;
+    width: 100%;
+}
+
+.lang-disabled {
+    pointer-events: none;
+    cursor: default;
+}
+
+.redux-container .redux-group-tab .form-wrap {
+    float: left;
+    margin-top: 20px;
+    width: 100%;
+}

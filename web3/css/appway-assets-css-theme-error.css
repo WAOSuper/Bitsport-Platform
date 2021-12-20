@@ -1,0 +1,169 @@
+/*Error Section*/
+.error-section{
+	position:relative;
+	padding:190px 0px 200px;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+}
+
+.error-section:before {
+    position: absolute;
+    content: '';
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 100%;
+    display: block;
+    background-color: rgba(26, 26, 28, 0);
+}
+.error-section .thm-btn1 {
+    color: #f28b1d;
+}
+
+.error-section .content{
+	position:relative;
+}
+
+.error-section h1 {
+    position: relative;
+    display: block;
+    font-size: 200px;
+    line-height: 150px;
+    color: #161616;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.error-section h2 {
+    position: relative;
+    display: block;
+    font-size: 44px;
+    line-height: 52px;
+    color: #444;
+    font-weight: 600;
+    margin-bottom: 21px;
+    text-align: center;
+}
+
+.error-section .text {
+    position: relative;
+    color: #000000;
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 10px;
+    margin-bottom: 35px;
+    text-align: center;
+}
+
+
+/*Error Section*/
+
+ h4.er_the_title{
+    color: #fff;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+.error_text2{
+    margin-bottom: 20px;
+    color: #fff;
+}
+.sr_title{
+    font-size: 25px;
+    margin-bottom: 20px;
+    color: #000;
+    font-weight: 600;
+}
+.search_text p{
+    font-size: 17px;
+    color: #161616;
+    font-weight: 500;
+    text-align: center;
+}
+.search_text{
+    font-size: 17px;
+    color:#414141;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+.search_page_btn a{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.404_text{
+	margin-bottom:25px;
+}
+.error-section .search-form button {
+    position: relative;
+    top: -60px;
+    left: -27px;
+    font-size: 14px;
+    font-weight: 700;
+    color: #4527a4;
+    background: transparent;
+    cursor: pointer;
+    transition: all 500ms ease;
+    line-height: 61px;
+    float: right;
+}
+.search_title{
+    font-size: 50px;
+    color: #585858;
+    font-weight: 600;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.search_area_df{
+	padding:120px 0px 200px;
+}
+
+/*===== Page Loader =====*/
+.pageloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 99999;
+    background-color: rgba(255,255,255,.95);
+}
+.pageloader .loader {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.search_area_df {
+    background-repeat: no-repeat;
+}
+.error_btn{
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+    color: #fff !important;
+    padding: 14px 32px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 8px;
+    z-index: 1;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    transition: all 500ms ease;
+	background: linear-gradient(90deg, var(--c1, #ff5700), var(--c2, #ffd000 ) 50%, var(--c1, #ff5700)) var(--x, 0)/ 200%;
+}
+.errobtn_area{
+    text-align: center;
+}
+.error_btn:hover{
+	background:#222;
+	color:#fff;
+	    transition: all 500ms ease;
+}
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */

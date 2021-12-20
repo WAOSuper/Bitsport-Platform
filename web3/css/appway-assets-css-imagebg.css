@@ -1,0 +1,122 @@
+/** image-bg css for Appway **/
+
+
+#iamge_block_02 .image-box:after{
+  position: absolute;
+  content: '';
+  background: url(../images/shap-1.png);
+  width: 410px;
+  height: 410px;
+  left: -10px;
+  bottom: -160px;
+  background-repeat: no-repeat;
+  z-index: -1;
+}
+
+#iamge_block_03 .image-box:before{
+  position: absolute;
+  content: '';
+  background: url(../images/shap-1.png);
+  width: 410px;
+  height: 410px;
+  right: -30px;
+  bottom: -70px;
+  background-repeat: no-repeat;
+}
+
+.feature-style-two:before{
+  position: absolute;
+  content: '';
+  background: url(../images/bg-shap-1.png);
+  width: 100%;
+  height: 990px;
+  left: 0px;
+  top: 90px;
+  right: 0px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+}
+
+.video-section:before{
+  position: absolute;
+  content: '';
+  background: url(../images/shap-2.png);
+  width: 845px;
+  height: 180px;
+  right: 0px;
+  bottom: 0px;
+  background-repeat: no-repeat;
+}
+
+.transactions-work .inner-box .single-item .count-box:before{
+  position: absolute;
+  content: '';
+  background: url(../images/shap-17.png);
+  width: 32px;
+  height: 29px;
+  top: -26px;
+  right: -4px;
+  background-repeat: no-repeat;
+  transition: all 500ms ease;
+}
+
+.transactions-work .inner-box .single-item:hover .count-box:before{
+  transform: scale(1.1);
+}
+
+.transactions-work .inner-box .single-item:nth-child(2) .count-box:before{
+  background: url(../images/shap-23.png);
+  background-repeat: no-repeat;
+}
+
+.transactions-work .inner-box .single-item:last-child .count-box:before{
+  background: url(../images/shap-25.png);
+  background-repeat: no-repeat;
+}
+
+.transactions-work .inner-box .single-item .count-box:after{
+  position: absolute;
+  content: '';
+  background: url(../images/shap-18.png);
+  width: 89px;
+  height: 76px;
+  right: -15px;
+  bottom: -45px;
+  background-repeat: no-repeat;
+  transition: all 3000ms ease;
+}
+
+.transactions-work .inner-box .single-item:hover .count-box:after{
+  transform: rotate(360deg);
+}
+
+.transactions-work .inner-box .single-item:nth-child(2) .count-box:after{
+  background: url(../images/shap-24.png);
+  background-repeat: no-repeat;
+}
+
+.transactions-work .inner-box .single-item:last-child .count-box:after{
+  background: url(../images/shap-26.png);
+  background-repeat: no-repeat;
+}
+
+.timeline-work .inner-content .single-item:after{
+  position: absolute;
+  content: '';
+  background: url(../images/pattern-29.png);
+  width: 238px;
+  height: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+  background-repeat: no-repeat;
+}
+
+.timeline-work .inner-content .single-item:nth-child(2):after,
+.timeline-work .inner-content .single-item:nth-child(4):after{
+  background: url(../images/pattern-30.png);
+  top: 130px;
+  height: 66px;
+  background-repeat: no-repeat;
+}
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */

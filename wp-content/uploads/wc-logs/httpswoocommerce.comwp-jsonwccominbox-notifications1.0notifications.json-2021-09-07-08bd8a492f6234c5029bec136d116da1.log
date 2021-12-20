@@ -1,0 +1,499 @@
+2021-09-07T14:07:08+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
+2021-09-07T14:07:08+00:00 ERROR stdClass Object
+(
+    [slug] => mercadopago_q3_2021_ES
+    [type] => marketing
+    [status] => unactioned
+    [is_snoozable] => 0
+    [source] => woocommerce.com
+    [locales] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [locale] => es_ES
+                    [title] => Cobrá con el Checkout de Mercado Pago
+                    [content] => El procesador de pagos líder en América Latina ya está disponible para las tiendas de WooCommerce. Acepta pagos de forma segura con tarjetas de débito y crédito, dinero en efectivo, transferencias bancarias y meses con y sin interés, con el respaldo herramientas exclusivas de prevención del fraude.
+                )
+
+            [1] => stdClass Object
+                (
+                    [locale] => es_MX
+                    [title] => Cobrá con el Checkout de Mercado Pago
+                    [content] => El procesador de pagos líder en América Latina ya está disponible para las tiendas de WooCommerce. Acepta pagos de forma segura con tarjetas de débito y crédito, dinero en efectivo, transferencias bancarias y meses con y sin interés, con el respaldo herramientas exclusivas de prevención del fraude.
+                )
+
+            [2] => stdClass Object
+                (
+                    [locale] => es_CO
+                    [title] => Cobrá con el Checkout de Mercado Pago
+                    [content] => El procesador de pagos líder en América Latina ya está disponible para las tiendas de WooCommerce. Acepta pagos de forma segura con tarjetas de débito y crédito, dinero en efectivo, transferencias bancarias y meses con y sin interés, con el respaldo herramientas exclusivas de prevención del fraude.
+                )
+
+            [3] => stdClass Object
+                (
+                    [locale] => es_AR
+                    [title] => Cobrá con el Checkout de Mercado Pago
+                    [content] => El procesador de pagos líder en América Latina ya está disponible para las tiendas de WooCommerce. Acepta pagos de forma segura con tarjetas de débito y crédito, dinero en efectivo, transferencias bancarias y meses con y sin interés, con el respaldo herramientas exclusivas de prevención del fraude.
+                )
+
+            [4] => stdClass Object
+                (
+                    [locale] => es_CL
+                    [title] => Cobrá con el Checkout de Mercado Pago
+                    [content] => El procesador de pagos líder en América Latina ya está disponible para las tiendas de WooCommerce. Acepta pagos de forma segura con tarjetas de débito y crédito, dinero en efectivo, transferencias bancarias y meses con y sin interés, con el respaldo herramientas exclusivas de prevención del fraude.
+                )
+
+            [5] => stdClass Object
+                (
+                    [locale] => es_UY
+                    [title] => Cobrá con el Checkout de Mercado Pago
+                    [content] => El procesador de pagos líder en América Latina ya está disponible para las tiendas de WooCommerce. Acepta pagos de forma segura con tarjetas de débito y crédito, dinero en efectivo, transferencias bancarias y meses con y sin interés, con el respaldo herramientas exclusivas de prevención del fraude.
+                )
+
+            [6] => stdClass Object
+                (
+                    [locale] => es_PE
+                    [title] => Cobrá con el Checkout de Mercado Pago
+                    [content] => El procesador de pagos líder en América Latina ya está disponible para las tiendas de WooCommerce. Acepta pagos de forma segura con tarjetas de débito y crédito, dinero en efectivo, transferencias bancarias y meses con y sin interés, con el respaldo herramientas exclusivas de prevención del fraude.
+                )
+
+        )
+
+    [actions] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [name] => mercadopago_q3_2021_ES
+                    [locales] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [locale] => es_ES
+                                    [label] => Descargalo gratis
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [locale] => es_MX
+                                    [label] => Descargalo gratis
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [locale] => es_CO
+                                    [label] => Descargalo gratis
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [locale] => es_AR
+                                    [label] => Descargalo gratis
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [locale] => es_CL
+                                    [label] => Descargalo gratis
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [locale] => es_UY
+                                    [label] => Descargalo gratis
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [locale] => es_PE
+                                    [label] => Descargalo gratis
+                                )
+
+                        )
+
+                    [url] => https://woocommerce.com/products/mercado-pago-checkout/?utm_source=inbox&utm_medium=product&utm_campaign=mercadopago_q3_2021_ES"
+                    [url_is_admin_query] => 
+                    [is_primary] => 1
+                    [status] => actioned
+                )
+
+            [1] => stdClass Object
+                (
+                    [name] => dismiss
+                    [locales] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [locale] => es_ES
+                                    [label] => Desestimar
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [locale] => es_MX
+                                    [label] => Desestimar
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [locale] => es_CO
+                                    [label] => Desestimar
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [locale] => es_AR
+                                    [label] => Desestimar
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [locale] => es_CL
+                                    [label] => Desestimar
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [locale] => es_UY
+                                    [label] => Desestimar
+                                )
+
+                            [6] => stdClass Object
+                                (
+                                    [locale] => es_PE
+                                    [label] => Desestimar
+                                )
+
+                        )
+
+                    [url] => 
+                    [url_is_admin_query] => 
+                    [is_primary] => 
+                    [status] => actioned
+                )
+
+        )
+
+    [rules] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => publish_after_time
+                    [publish_after] => 2021-08-30 00:00:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [type] => publish_before_time
+                    [publish_before] => 2021-09-10 00:00:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [type] => not
+                    [operand] => stdClass Object
+                        (
+                            [type] => or
+                            [operands] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [type] => plugins_activated
+                                            [plugins] => Array
+                                                (
+                                                    [0] => woocommerce-gateway-stripe
+                                                )
+
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [type] => plugins_activated
+                                            [plugins] => Array
+                                                (
+                                                    [0] => woocommerce-paypal-payments
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [type] => or
+                    [operands] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [operation] => =
+                                    [value] => MX
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [operation] => =
+                                    [value] => AR
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [operation] => =
+                                    [value] => CO
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [operation] => =
+                                    [value] => CL
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [operation] => =
+                                    [value] => UY
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [type] => base_location_country
+                                    [operation] => =
+                                    [value] => PE
+                                )
+
+                        )
+
+                )
+
+            [4] => stdClass Object
+                (
+                    [type] => or
+                    [operands] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => option
+                                    [option_name] => WPLANG
+                                    [operation] => =
+                                    [value] => es_MX
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => option
+                                    [option_name] => WPLANG
+                                    [operation] => =
+                                    [value] => es_AR
+                                )
+
+                            [2] => stdClass Object
+                                (
+                                    [type] => option
+                                    [option_name] => WPLANG
+                                    [operation] => =
+                                    [value] => es_CO
+                                )
+
+                            [3] => stdClass Object
+                                (
+                                    [type] => option
+                                    [option_name] => WPLANG
+                                    [operation] => =
+                                    [value] => es_CL
+                                )
+
+                            [4] => stdClass Object
+                                (
+                                    [type] => option
+                                    [option_name] => WPLANG
+                                    [operation] => =
+                                    [value] => es_UY
+                                )
+
+                            [5] => stdClass Object
+                                (
+                                    [type] => option
+                                    [option_name] => WPLANG
+                                    [operation] => =
+                                    [value] => es_PE
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+
+2021-09-07T14:07:08+00:00 ERROR Spec is invalid because the locale could not be retrieved in feed
+2021-09-07T14:07:08+00:00 ERROR stdClass Object
+(
+    [slug] => mercadopago_q3_2021_PT
+    [type] => marketing
+    [status] => unactioned
+    [is_snoozable] => 0
+    [source] => woocommerce.com
+    [locales] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [locale] => pt_PT
+                    [title] => Venda agora com o Checkout Mercado Pago
+                    [content] => O líder em processamento de vendas na américa latina agora está disponível para WooCommerce. Aceite de forma segura pagamentos com cartão de débito e crédito, boleto, transferências bancárias e pagamentos parcelados- tudo isso apoiado por ferramentas exclusivas de prevenção a fraude.
+                )
+
+            [1] => stdClass Object
+                (
+                    [locale] => pt_BR
+                    [title] => Venda agora com o Checkout Mercado Pago
+                    [content] => O líder em processamento de vendas na américa latina agora está disponível para WooCommerce. Aceite de forma segura pagamentos com cartão de débito e crédito, boleto, transferências bancárias e pagamentos parcelados- tudo isso apoiado por ferramentas exclusivas de prevenção a fraude.
+                )
+
+        )
+
+    [actions] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [name] => mercadopago_q3_2021_PT
+                    [locales] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [locale] => pt_PT
+                                    [label] => Baixar grátis
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [locale] => pt_BR
+                                    [label] => Baixar grátis
+                                )
+
+                        )
+
+                    [url] => https://woocommerce.com/products/mercado-pago-checkout/?utm_source=inbox&utm_medium=product&utm_campaign=mercadopago_q3_2021_PT
+                    [url_is_admin_query] => 
+                    [is_primary] => 1
+                    [status] => actioned
+                )
+
+            [1] => stdClass Object
+                (
+                    [name] => dismiss
+                    [locales] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [locale] => pt_PT
+                                    [label] => Liberar
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [locale] => pt_BR
+                                    [label] => Liberar
+                                )
+
+                        )
+
+                    [url] => 
+                    [url_is_admin_query] => 
+                    [is_primary] => 
+                    [status] => actioned
+                )
+
+        )
+
+    [rules] => Array
+        (
+            [0] => stdClass Object
+                (
+                    [type] => publish_after_time
+                    [publish_after] => 2021-08-30 00:00:00
+                )
+
+            [1] => stdClass Object
+                (
+                    [type] => publish_before_time
+                    [publish_before] => 2021-09-10 00:00:00
+                )
+
+            [2] => stdClass Object
+                (
+                    [type] => not
+                    [operand] => stdClass Object
+                        (
+                            [type] => or
+                            [operands] => Array
+                                (
+                                    [0] => stdClass Object
+                                        (
+                                            [type] => plugins_activated
+                                            [plugins] => Array
+                                                (
+                                                    [0] => woocommerce-gateway-stripe
+                                                )
+
+                                        )
+
+                                    [1] => stdClass Object
+                                        (
+                                            [type] => plugins_activated
+                                            [plugins] => Array
+                                                (
+                                                    [0] => woocommerce-paypal-payments
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [3] => stdClass Object
+                (
+                    [type] => base_location_country
+                    [operation] => =
+                    [value] => BR
+                )
+
+            [4] => stdClass Object
+                (
+                    [type] => or
+                    [operands] => Array
+                        (
+                            [0] => stdClass Object
+                                (
+                                    [type] => option
+                                    [option_name] => WPLANG
+                                    [operation] => =
+                                    [value] => pt_PT
+                                )
+
+                            [1] => stdClass Object
+                                (
+                                    [type] => option
+                                    [option_name] => WPLANG
+                                    [operation] => =
+                                    [value] => pt_BR
+                                )
+
+                        )
+
+                )
+
+        )
+
+)
+

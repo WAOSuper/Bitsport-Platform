@@ -1,0 +1,5678 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Student2 Plugin\n"
+"POT-Creation-Date: 2017-12-10 07:01+0500\n"
+"PO-Revision-Date: 2017-12-10 07:01+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e;_x;"
+"_n;_noop\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: bin\n"
+"X-Poedit-SearchPathExcluded-1: tests\n"
+"X-Poedit-SearchPathExcluded-2: vendor\n"
+
+#: inc/abstracts/class-post-type-abstract.php:106
+#: inc/abstracts/class-post-type-abstract.php:107
+#: inc/abstracts/class-post-type-abstract.php:108
+#: inc/abstracts/class-post-type-abstract.php:109
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:110
+msgid "Add New"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:111
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:112
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:73
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:174
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:113
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:114
+#: redux/admin/redux-framework/inc/welcome/welcome.php:521
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:115
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:116
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:117
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:118
+#, php-format
+msgid "No %s found."
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:119
+#, php-format
+msgid "No %s found in Trash."
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:120
+#, php-format
+msgid "%s Cover Image"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:121
+msgid "Set cover image"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:122
+msgid "Remove cover image"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:123
+msgid "Use as cover image"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:124
+#, php-format
+msgid "%s archives"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:125
+#, php-format
+msgid "Insert into %s"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:126
+#, php-format
+msgid "Uploaded to this %s"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:127
+#, php-format
+msgid "Filter %s list"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:128
+#, php-format
+msgid "%s list navigation"
+msgstr ""
+
+#: inc/abstracts/class-post-type-abstract.php:129
+#, php-format
+msgid "%s list"
+msgstr ""
+
+#: inc/post_types/block.php:62 inc/post_types/block.php:64
+msgid "Static Blocks"
+msgstr ""
+
+#: inc/post_types/block.php:63
+msgid "Static Block"
+msgstr ""
+
+#: inc/post_types/gallery.php:61 inc/post_types/gallery.php:63
+msgid "Galleries"
+msgstr ""
+
+#: inc/post_types/gallery.php:62
+msgid "Gallery"
+msgstr ""
+
+#: inc/post_types/service.php:61 inc/post_types/service.php:63
+msgid "Services"
+msgstr ""
+
+#: inc/post_types/service.php:62
+msgid "Service"
+msgstr ""
+
+#: inc/post_types/testimonial.php:61 inc/post_types/testimonial.php:63
+msgid "Testimonials"
+msgstr ""
+
+#: inc/post_types/testimonial.php:62
+msgid "Testimonial"
+msgstr ""
+
+#: redux/admin/options-init.php:111
+msgid "Theme Information 1"
+msgstr ""
+
+#: redux/admin/options-init.php:112 redux/admin/options-init.php:117
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: redux/admin/options-init.php:116
+msgid "Theme Information 2"
+msgstr ""
+
+#: redux/admin/options-init.php:123
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: redux/admin/options-init.php:139
+msgid "Basic Field"
+msgstr ""
+
+#: redux/admin/options-init.php:141
+msgid "Basic field with no subsections."
+msgstr ""
+
+#: redux/admin/options-init.php:147
+msgid "Example Text"
+msgstr ""
+
+#: redux/admin/options-init.php:148
+msgid "Example description."
+msgstr ""
+
+#: redux/admin/options-init.php:149
+msgid "Example subtitle."
+msgstr ""
+
+#: redux/admin/options-init.php:155
+msgid "Basic Fields"
+msgstr ""
+
+#: redux/admin/options-init.php:157
+msgid "Basic fields as subsections."
+msgstr ""
+
+#: redux/admin/options-init.php:162 resource/vc_map/contact_info.php:52
+msgid "Text"
+msgstr ""
+
+#: redux/admin/options-init.php:163 redux/admin/options-init.php:180
+msgid "For full documentation on this field, visit: "
+msgstr ""
+
+#: redux/admin/options-init.php:170
+#: resource/vc_map/testimonials_with_contact_form.php:156
+msgid "Text Field"
+msgstr ""
+
+#: redux/admin/options-init.php:171 redux/admin/options-init.php:188
+#: resource/vc_map/flooring_solutions.php:37 resource/vc_map/our_facts.php:29
+#: resource/vc_map/vc_row.php:185
+msgid "Subtitle"
+msgstr ""
+
+#: redux/admin/options-init.php:172 redux/admin/options-init.php:189
+msgid "Field Description"
+msgstr ""
+
+#: redux/admin/options-init.php:179
+#: resource/vc_map/testimonials_with_contact_form.php:156
+msgid "Text Area"
+msgstr ""
+
+#: redux/admin/options-init.php:187
+msgid "Text Area Field"
+msgstr ""
+
+#: redux/admin/redux-framework/core/enqueue.php:452
+#: redux/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:689
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: redux/admin/redux-framework/core/enqueue.php:460
+#: redux/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:690
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: redux/admin/redux-framework/core/enqueue.php:468
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+
+#: redux/admin/redux-framework/core/enqueue.php:476
+#: redux/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:691
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: redux/admin/redux-framework/core/enqueue.php:483
+msgid "Please Wait"
+msgstr ""
+
+#: redux/admin/redux-framework/core/enqueue.php:494
+msgid "There was an error saving. Here is the result of your action:"
+msgstr ""
+
+#: redux/admin/redux-framework/core/enqueue.php:495
+msgid ""
+"There was a problem with your action. Please try again or reload the page."
+msgstr ""
+
+#: redux/admin/redux-framework/core/panel.php:65
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: redux/admin/redux-framework/core/panel.php:141
+msgid "Settings Imported!"
+msgstr ""
+
+#: redux/admin/redux-framework/core/panel.php:156
+msgid "All Defaults Restored!"
+msgstr ""
+
+#: redux/admin/redux-framework/core/panel.php:170
+msgid "Section Defaults Restored!"
+msgstr ""
+
+#: redux/admin/redux-framework/core/panel.php:184
+msgid "Settings Saved!"
+msgstr ""
+
+#: redux/admin/redux-framework/core/panel.php:204
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: redux/admin/redux-framework/core/panel.php:212
+msgid "error(s) were found!"
+msgstr ""
+
+#: redux/admin/redux-framework/core/panel.php:220
+msgid "warning(s) were found!"
+msgstr ""
+
+#: redux/admin/redux-framework/core/panel.php:312
+msgid ""
+"<strong>Your panel has bundled outdated copies of Redux Framework template "
+"files</strong> &#8211; if you encounter functionality issues this could be "
+"the reason. Ensure you update or remove them."
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:220
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:220
+#: redux/admin/redux-framework/inc/welcome/welcome.php:205
+msgid "Redux Framework"
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:224
+#: redux/admin/redux-framework/framework.php:228
+msgid "Options"
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:1765
+#: resource/vc_map/our_facts.php:45 resource/vc_map/owl_slider.php:66
+#: resource/vc_map/owl_slider.php:74 resource/vc_map/owl_slider.php:82
+#: resource/vc_map/owl_slider.php:90
+#: resource/vc_map/testimonials_with_contact_form.php:24
+#: resource/vc_map/testimonials_with_contact_form.php:88
+#: resource/vc_map/text_carousal.php:75 resource/vc_map/text_carousal.php:83
+#: resource/vc_map/text_carousal.php:91 resource/vc_map/text_carousal.php:99
+msgid "Enable"
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:1770
+msgid "Disable"
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:1776
+msgid "moving the mouse over"
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:1778
+msgid "clicking"
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:1782
+#, php-format
+msgid ""
+"Hints are tooltips that popup when %d the hint icon, offering addition "
+"information about the field in which they appear.  They can be %d d by using "
+"the link below."
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:1787
+msgid "Hints"
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:1914
+msgid "Default"
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:2794
+msgid "Invalid security credential.  Please reload the page and try again."
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:2803
+msgid "Invalid user capability.  Please reload the page and try again."
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:2883
+msgid "Your panel has no fields. Nothing to save."
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:4003
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>admin_bar_links</code> "
+"argument.  This is sample data.  Please change or remove this data before "
+"shipping your product."
+msgstr ""
+
+#: redux/admin/redux-framework/framework.php:4018
+msgid ""
+"<strong>Redux Framework Notice: </strong>There are references to the Redux "
+"Framework support site in your config's <code>share_icons</code> argument.  "
+"This is sample data.  Please change or remove this data before shipping your "
+"product."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/class.redux_admin_notices.php:97
+msgid "Dismiss"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/class.redux_cdn.php:74
+msgid ""
+"Please wait a few minutes, then try refreshing the page. Unable to load some "
+"remotely hosted scripts."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/class.redux_cdn.php:76
+#, php-format
+msgid ""
+"If you are developing offline, please download and install the <a href=\"%s"
+"\" target=\"_blank\">Redux Vendor Support</a> plugin/extension to bypass the "
+"our CDN and avoid this warning"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/class.redux_cdn.php:81
+msgid "Redux Framework Warning"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/class.redux_cdn.php:81
+#, php-format
+msgid "%s CDN unavailable.  Some controls may not render properly."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/class.redux_cdn.php:113
+#, php-format
+msgid ""
+"The <a href=\"%s\">Vendor Support plugin</a> (or extension) is either not "
+"installed or not activated and thus, some controls may not render properly.  "
+"Please ensure that it is installed and <a href=\"%s\">activated</a>"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/class.redux_filesystem.php:31
+#: redux/admin/redux-framework/inc/class.redux_filesystem.php:60
+#: redux/admin/redux-framework/inc/class.redux_filesystem.php:272
+msgid "File Permission Issues"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/class.redux_filesystem.php:31
+#, php-format
+msgid ""
+"We were unable to modify required files. Please check your permissions, or "
+"modify your wp-config.php file to contain your FTP login credentials as <a "
+"href=\"%s\" target=\"_blank\">outlined here</a>."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/class.redux_filesystem.php:60
+#: redux/admin/redux-framework/inc/class.redux_filesystem.php:272
+#, php-format
+msgid ""
+"We were unable to modify required files. Please ensure that <code>%1s</code> "
+"has the proper read-write permissions, or modify your wp-config.php file to "
+"contain your FTP login credentials as <a href=\"%2s\" target=\"_blank"
+"\">outlined here</a>."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/class.redux_helpers.php:612
+#, php-format
+msgid ""
+"<code>%s</code> version <strong style=\"color:red\">%s</strong> is out of "
+"date. The core version is %s"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:724
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:725
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/customizer/extension_customizer.php:726
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:89
+msgid "Press return or enter to open this panel"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:114
+#: redux/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:142
+#, php-format
+msgid "You are customizing %s"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:138
+#: redux/admin/redux-framework/inc/extensions/customizer/inc/customizer_section.php:79
+msgid "Back"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/customizer/inc/customizer_panel.php:146
+msgid "Help"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/customizer/inc/customizer_section.php:72
+msgid "Press return or enter to open"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/customizer/inc/customizer_section.php:122
+msgid "Press return or enter to expand"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/extension_import_export.php:120
+msgid "Import / Export"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:91
+msgid "Import Options"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:95
+msgid "Import from File"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:98
+msgid "Import from URL"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:104
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:111
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid "Import"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:116
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:120
+msgid "Export Options"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:124
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:132
+msgid "Copy Data"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:133
+msgid "Download Data File"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/import_export/import_export/field_import_export.php:134
+msgid "Copy Export URL"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/options_object/extension_options_object.php:82
+#: redux/admin/redux-framework/inc/extensions/options_object/options_object/field_options_object.php:104
+msgid "Options Object"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/extensions/options_object/options_object/field_options_object.php:107
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/background/field_background.php:124
+#: redux/admin/redux-framework/inc/fields/color/field_color.php:73
+#: redux/admin/redux-framework/inc/fields/color_gradient/field_color_gradient.php:79
+#: redux/admin/redux-framework/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/background/field_background.php:277
+#: redux/admin/redux-framework/inc/fields/media/field_media.php:149
+msgid "No media selected"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/background/field_background.php:314
+#: redux/admin/redux-framework/inc/fields/media/field_media.php:198
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:126
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/background/field_background.php:321
+#: redux/admin/redux-framework/inc/fields/media/field_media.php:205
+#: redux/admin/redux-framework/inc/fields/multi_text/field_multi_text.php:72
+#: redux/admin/redux-framework/inc/fields/multi_text/field_multi_text.php:79
+#: redux/admin/redux-framework/inc/fields/multi_text/field_multi_text.php:89
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:133
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/border/field_border.php:125
+#: redux/admin/redux-framework/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/border/field_border.php:138
+#: redux/admin/redux-framework/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/border/field_border.php:145
+#: redux/admin/redux-framework/inc/fields/spacing/field_spacing.php:222
+msgid "Right"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/border/field_border.php:152
+#: redux/admin/redux-framework/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/border/field_border.php:159
+#: redux/admin/redux-framework/inc/fields/spacing/field_spacing.php:236
+msgid "Left"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/border/field_border.php:174
+msgid "Border style"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/color_rgba/field_color_rgba.php:71
+msgid "Choose"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/color_rgba/field_color_rgba.php:72
+msgid "Cancel"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/color_rgba/field_color_rgba.php:74
+msgid "Select Color"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/dimensions/field_dimensions.php:162
+msgid "Width"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/dimensions/field_dimensions.php:178
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Height"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/dimensions/field_dimensions.php:189
+#: redux/admin/redux-framework/inc/fields/dimensions/field_dimensions.php:190
+#: redux/admin/redux-framework/inc/fields/spacing/field_spacing.php:245
+#: redux/admin/redux-framework/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/link_color/field_link_color.php:90
+msgid "Regular"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/link_color/field_link_color.php:94
+msgid "Hover"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/link_color/field_link_color.php:98
+msgid "Visited"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/link_color/field_link_color.php:102
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/link_color/field_link_color.php:106
+msgid "Focus"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/multi_text/field_multi_text.php:62
+msgid "Add More"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/password/field_password.php:63
+msgid "Username"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/select/field_select.php:83
+#: redux/admin/redux-framework/inc/fields/select_image/field_select_image.php:63
+msgid "Select an item"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/select/field_select.php:134
+#: redux/admin/redux-framework/inc/fields/select_image/field_select_image.php:144
+msgid "No items of this type were found."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:145
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:200
+#: resource/vc_map/about_event.php:26 resource/vc_map/about_us.php:22
+#: resource/vc_map/contact_banner.php:29
+#: resource/vc_map/flooring_solutions.php:30 resource/vc_map/newsletter.php:29
+#: resource/vc_map/our_facts.php:22 resource/vc_map/owl_slider.php:22
+#: resource/vc_map/portfolios_with_categories_tabs.php:22
+#: resource/vc_map/products_grid.php:48 resource/vc_map/products_list.php:40
+#: resource/vc_map/products_list_style2.php:40
+#: resource/vc_map/testimonials_with_contact_form.php:30
+#: resource/vc_map/text_carousal.php:36 resource/vc_map/vc_row.php:173
+msgid "Title"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:149
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:204
+#: resource/vc_map/about_us.php:43 resource/vc_map/custom_services.php:36
+#: resource/vc_map/flooring_solutions.php:44 resource/vc_map/newsletter.php:36
+#: resource/vc_map/our_facts.php:36 resource/vc_map/owl_slider.php:29
+#: resource/vc_map/social_profile.php:22 resource/vc_map/text_carousal.php:43
+msgid "Description"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:153
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:167
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:220
+msgid "Delete"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:231
+msgid "Font Family"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:232
+msgid "Font family"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:258
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:259
+msgid "Backup Font Family"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:273
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Font style"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:274
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:281
+msgid "Style"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:321
+msgid "Font subsets"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:323
+msgid "Font Subsets"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Subsets"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:325
+msgid "Font script"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:342
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:343
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:344
+msgid "Text Align"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:365
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:366
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:367
+msgid "Text Transform"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:388
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:389
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:390
+msgid "Font Variant"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:408
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:409
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:410
+msgid "Text Decoration"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:432
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:433
+msgid "Font Size"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:433
+msgid "Size"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:441
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:442
+msgid "Line Height"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:450
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:451
+msgid "Word Spacing"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:459
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:460
+msgid "Letter Spacing"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:478
+msgid "Font Color"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:480
+msgid "Font color"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:890
+msgid "Standard Fonts"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/fields/typography/field_typography.php:991
+msgid "Google Webfonts"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/embedded.php:15
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: If you are "
+"submitting to WordPress.org Theme Repository, it is <strong>strongly</"
+"strong> suggested that you read <a href=\"%s\" target=\"_blank\">this "
+"document</a>, or your theme will be rejected because of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/embedded.php:24
+#, php-format
+msgid ""
+"<span class=\"tc-lead tc-required\">REQUIRED</span>: You MUST delete "
+"<strong> %s </strong>, or your theme will be rejected by WP.org theme "
+"submission because of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/embedded.php:38
+msgid "Optional"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/embedded.php:40
+msgid ""
+"<span class=\"tc-lead tc-recommended\">RECOMMENDED</span>: The following "
+"arguments MUST be used for WP.org submissions, or you will be rejected "
+"because of your Redux configuration."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/full_package.php:16
+msgid "Redux localization utilities"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/full_package.php:17
+msgid "Redux Resting Diles"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/full_package.php:18
+msgid "Redux Code Styles"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/full_package.php:19
+msgid "Redux Unit Testing"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/full_package.php:20
+msgid "Redux Plugin File"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/full_package.php:21
+msgid "Redux Boostrap Tests"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/full_package.php:22
+msgid "CI Testing FIle"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/full_package.php:23
+msgid "PHP Unit Testing"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/themecheck/checks/full_package.php:36
+msgid ""
+"It appears that you have embedded the full Redux package inside your theme. "
+"You need only embed the <strong>ReduxCore</strong> folder. Embedding "
+"anything else will get your rejected from theme submission. Suspected Redux "
+"package file(s):"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:129
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:130
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatibility."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:135
+msgid "Allow tracking"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:140
+msgid "Do not allow tracking"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:151
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:152
+msgid "Getting Started"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:152
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:152
+msgid "our documentation"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:153
+msgid "Redux Generator"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:153
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:154
+#: redux/admin/redux-framework/inc/welcome/welcome.php:229
+msgid "Redux Extensions"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:154
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:154
+msgid "extensions directory"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:155
+msgid "Like Redux?"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:155
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:155
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:155
+msgid "donation"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:156
+msgid "Newsletter"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:156
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:157
+msgid "Email address"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:157
+msgid "Subscribe"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/tracking.php:166
+msgid "Close"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/color/validation_color.php:15
+#: redux/admin/redux-framework/inc/validation/color_rgba/validation_color_rgba.php:14
+#: redux/admin/redux-framework/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/css/validation_css.php:39
+msgid "Unsafe strings were found in your CSS and have been filtered out."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/email/validation_email.php:16
+#: redux/admin/redux-framework/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/numeric/validation_numeric.php:16
+#: redux/admin/redux-framework/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/unique_slug/validation_unique_slug.php:16
+#, php-format
+msgid ""
+"That URL slug is in use, please choose another. <code>%s</code> is open for "
+"use."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/about.php:2
+#, php-format
+msgid "Welcome to Redux Framework %s"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/about.php:5
+#, php-format
+msgid ""
+"Thank you for updating to the latest version! Redux Framework %s is a huge "
+"step forward in Redux Development. Look at all that's new."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/about.php:8
+#: redux/admin/redux-framework/inc/welcome/views/changelog.php:10
+#: redux/admin/redux-framework/inc/welcome/views/credits.php:10
+#: redux/admin/redux-framework/inc/welcome/views/extensions.php:81
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:34
+#: redux/admin/redux-framework/inc/welcome/views/support.php:8
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/about.php:15
+msgid "What is Redux Framework?"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/about.php:17
+msgid ""
+"Redux Framework is the core of many products on the web. It is an option "
+"framework which developers use to\n"
+"            enhance their products."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/about.php:22
+msgid "Learn More"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/about.php:28
+msgid "New in this Release"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/changelog.php:2
+msgid "Redux Framework - Changelog"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/changelog.php:5
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:30
+msgid ""
+"Our core mantra at Redux is backwards compatibility. With hundreds of "
+"thousands of instances worldwide, you can be assured that we will take care "
+"of you and your clients."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/credits.php:2
+msgid "Redux Framework - A Community Effort"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/credits.php:5
+msgid ""
+"We recognize we are nothing without our community. We would like to thank "
+"all of those who help Redux to be what it is. Thank you for your involvement."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/credits.php:18
+#, php-format
+msgid ""
+"Redux is created by a community of developers world wide. Want to have your "
+"name listed too? <a href=\"%d\" target=\"_blank\">Contribute to Redux</a>."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/extensions.php:73
+msgid "Redux Framework - Extensions"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/extensions.php:76
+msgid ""
+"Supercharge your Redux experience. Our extensions provide you with features "
+"that will take your products to the next level."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/extensions.php:89
+msgid ""
+"While some are built specificially for developers, extensions such as Custom "
+"Fonts are sure to make any user happy."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:26
+msgid "Redux Framework - System Status"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:43
+msgid ""
+"Please copy and paste this information in your ticket when contacting "
+"support:"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:48
+msgid "Get System Report"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:53
+msgid "Understanding the Status Report"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:62
+msgid "Copied!"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:63
+msgid "Copy for Support"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:73
+msgid "WordPress Environment"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:80
+msgid "Home URL"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:83
+msgid "The URL of your site's homepage."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:89
+msgid "Site URL"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:92
+msgid "The root URL of your site."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:100
+msgid "Redux Version"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:103
+msgid "The version of Redux Framework installed on your site."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:111
+msgid "Redux Data Directory Writable"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:114
+msgid ""
+"Redux and its extensions write data to the <code>uploads</code> directory. "
+"This directory must be writable."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:120
+#, php-format
+msgid "To allow data saving, make <code>%s</code> writable."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:126
+msgid "WP Content URL"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:129
+msgid "The location of Wordpress's content URL."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:137
+msgid "WP Version"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:140
+msgid "The version of WordPress installed on your site."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:148
+msgid "WP Multisite"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:151
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:162
+msgid "Permalink Structure"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:165
+msgid ""
+"The current permalink structure as defined in Wordpress Settings->Permalinks."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:174
+msgid "Front Page Display"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:176
+msgid "The current Reading mode of Wordpress."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:185
+msgid "Front Page"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:188
+msgid "The currently selected page which acts as the site's Front Page."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:196
+msgid "Posts Page"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:199
+msgid "The currently selected page in where blog posts are displayed."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:210
+msgid "WP Memory Limit"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:213
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:220
+#, php-format
+msgid ""
+"%s - We recommend setting memory to at least 40MB. See: <a href=\"%s\" "
+"target=\"_blank\">Increasing memory allocated to PHP</a>"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:229
+msgid "Database Table Prefix"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:232
+msgid "The prefix structure of the current Wordpress database."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:240
+msgid "WP Debug Mode"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:243
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:255
+msgid "Language"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:258
+msgid "The current language used by WordPress. Default = English"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:270
+msgid "Browser"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:277
+msgid "Browser Info"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:280
+msgid "Information about web browser current in use."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:297
+msgid "Server Environment"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:304
+msgid "Server Info"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:307
+msgid "Information about the web server that is currently hosting your site."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:315
+msgid "Localhost Environment"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:318
+msgid "Is the server running in a localhost environment."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:332
+msgid "PHP Version"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:335
+msgid "The version of PHP installed on your hosting server."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:343
+msgid "ABSPATH"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:346
+msgid "The ABSPATH variable on the server."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:355
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:356
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:361
+msgid "The largest filesize that can be contained in one post."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:360
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:365
+msgid "PHP Time Limit"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:366
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:370
+msgid "PHP Max Input Vars"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:371
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:375
+msgid "PHP Display Errors"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:376
+msgid "Determines if PHP will display errors within the browser."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:387
+msgid "SUHOSIN Installed"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:388
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself.  "
+"If enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:399
+msgid "MySQL Version"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:400
+msgid "The version of MySQL installed on your hosting server."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:404
+msgid "Max Upload Size"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:405
+msgid ""
+"The largest filesize that can be uploaded to your WordPress installation."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:410
+msgid "Default Timezone is UTC"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:412
+msgid "The default timezone for your server."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:416
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:428
+msgid "Used when communicating with remote services with PHP."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:434
+msgid ""
+"Your server does not have fsockopen or cURL enabled - cURL is used to "
+"communicate with other servers. Please contact your hosting provider."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:473
+msgid "Remote Post"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:474
+msgid "Used to send data to remote servers."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:479
+msgid ""
+"wp_remote_post() failed. Many advanced features may not function. Contact "
+"your hosting provider."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:482
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:497
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:489
+msgid "Remote Get"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:490
+msgid "Used to grab information from remote servers for updates updates."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:495
+msgid ""
+"wp_remote_get() failed. This is needed to get information from remote "
+"servers. Contact your hosting provider."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:531
+msgid "Active Plugins"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:546
+msgid "Visit plugin homepage"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:553
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:572
+msgid "Redux Instance: "
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:579
+msgid "The opt_name argument for this instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:587
+msgid "The global_variable argument for this instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:595
+msgid "Indicates if developer mode is enabled for this instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:600
+msgid "Indicates if ajax based saving is enabled for this instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:605
+msgid ""
+"The page slug denotes the string used for the options panel page for this "
+"instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:610
+msgid ""
+"The page permissions variable sets the permission level required to access "
+"the options panel for this instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:615
+msgid ""
+"This variable set whether or not the menu is displayed as an admin menu item "
+"for this instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:620
+msgid ""
+"The page parent variable sets where the options menu will be placed on the "
+"WordPress admin sidebar for this instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:626
+msgid "Indicates if the compiler flag is enabled for this instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:631
+msgid ""
+"Indicates if output flag for globally shutting off all CSS output is enabled "
+"for this instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:636
+msgid ""
+"The output_tag variable sets whether or not dynamic CSS will be generated "
+"for the customizer and Google fonts for this instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:645
+msgid ""
+"The specified template path containing custom template files for this "
+"instance of Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:650
+msgid "List of template files overriding the default Redux template files."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:676
+msgid "Indicates the installed Redux extensions and their version numbers."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:705
+msgid "Theme"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:710
+msgid "Name"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:711
+msgid "The name of the current active theme."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:715
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:716
+msgid "The installed version of the current active theme."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:722
+msgid "is available"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:728
+msgid "Author URL"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:729
+msgid "The theme developers URL."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:733
+msgid "Child Theme"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:734
+msgid "Displays whether or not the current theme is a child theme."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:737
+#, php-format
+msgid ""
+"If you're modifying Redux Framework or a parent theme you didn't build "
+"personally, we recommend using a child theme. See: <a href=\"%s\" target="
+"\"_blank\">How to create a child theme</a>"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:745
+msgid "Parent Theme Name"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:747
+msgid "The name of the parent theme."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:752
+msgid "Parent Theme Version"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:754
+msgid "The installed version of the parent theme."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:759
+msgid "Parent Theme Author URL"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/status_report.php:761
+msgid "The parent theme developers URL."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:2
+msgid "Redux Framework - Support"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:4
+msgid ""
+"We are an open source project used by developers to make powerful control "
+"panels."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:19
+#: redux/admin/redux-framework/inc/welcome/views/support.php:40
+msgid "Generate a Support URL"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:20
+msgid "Select Support Type"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:21
+#: redux/admin/redux-framework/inc/welcome/views/support.php:87
+msgid "How to Get Support"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:27
+msgid "Submit a Support Request"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:31
+msgid "To get started, we will need to generate a support hash."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:35
+#, php-format
+msgid ""
+"This will provide to your developer all the information they may need to "
+"remedy your issue. This action WILL send information securely to a remote "
+"server. To see the type of information sent, please look at the  <a href=\"%s"
+"\">Status tab</a>."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:52
+msgid "Select Your Support Type"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:56
+msgid "What type of user are you?"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:63
+msgid "User"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:65
+msgid "I am a user, using a pre-built product."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:70
+msgid "Developer"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:72
+msgid "I am a developer, building a product using Redux."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:92
+msgid ""
+"Please proceed to the Redux Framework issue tracker and supply us with your "
+"support URL below. Please also provide any information that will help us to "
+"reproduce your issue."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:101
+msgid ""
+"Listed below are the Wordpress plugins and/or theme installed on your site "
+"that utilize Redux Framework. We do not directly support products created "
+"with our framework.  It is the responsibility of the plugin or theme "
+"developer to support their work. You will need to contact the author(s) of "
+"the products listed below with your support questions."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:105
+msgid ""
+"Please be sure to include for your developer - via cut and paste - the "
+"Support URL in the box below."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/views/support.php:134
+#, php-format
+msgid ""
+"Should the developer not be responsive, read the <a href=\"%s\" target="
+"\"_blank\">following article</a> before asking for support from us directly."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:106
+msgid ""
+"If you like <strong>Redux</strong> please leave us a <a href=\"https://"
+"wordpress.org/support/view/plugin-reviews/redux-framework?filter=5#postform"
+"\" target=\"_blank\" class=\"redux-rating-link\" data-rated="
+"\"Thanks :)\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating. A huge thank "
+"you from Redux in advance!"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:183
+msgid "Support hash could not be generated. Please try again later."
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:205
+msgid "Welcome to Redux Framework"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:213
+msgid "Redux Framework Changelog"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:221
+msgid "Get Support"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:238
+msgid "The people that develop Redux Framework"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:246
+msgid "Redux Framework Status"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:346
+msgid "What's New"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:349
+msgid "Extensions"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:352
+msgid "Changelog"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:355
+msgid "Credits"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:358
+msgid "Support"
+msgstr ""
+
+#: redux/admin/redux-framework/inc/welcome/welcome.php:361
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/footer.tpl.php:57
+#: redux/admin/redux-framework/templates/panel/header_stickybar.tpl.php:21
+msgid "Save Changes"
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/footer.tpl.php:61
+#: redux/admin/redux-framework/templates/panel/header_stickybar.tpl.php:25
+msgid "Reset Section"
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/footer.tpl.php:62
+#: redux/admin/redux-framework/templates/panel/header_stickybar.tpl.php:26
+msgid "Reset All"
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/footer.tpl.php:67
+#: redux/admin/redux-framework/templates/panel/header_stickybar.tpl.php:29
+msgid "Working..."
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/header.tpl.php:11
+#: redux/admin/redux-framework/templates/panel/header.tpl.php:49
+msgid "Developer Mode Enabled"
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/header.tpl.php:20
+msgid "WP_DEBUG is enabled"
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/header.tpl.php:26
+msgid "you are working in a localhost environment"
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/header.tpl.php:31
+msgid "and"
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/header.tpl.php:34
+msgid "This has been automatically enabled because"
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/header.tpl.php:36
+msgid ""
+"If you are not a developer, your theme/plugin author shipped with developer "
+"mode enabled. Contact them directly to fix it."
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/header.tpl.php:58
+msgid "FORCED DEV MODE OFF ENABLED"
+msgstr ""
+
+#: redux/admin/redux-framework/templates/panel/header_stickybar.tpl.php:15
+msgid "Expand"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:393
+#: redux/admin/tgm/class-tgm-plugin-activation.php:920
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2626
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:394
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:395
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:1027
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:1027
+#: redux/admin/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:1030
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2575
+msgid "unknown"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2642
+msgid "Type"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3602
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3602
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: redux/admin/tgm/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:4
+msgid "404 page Settings"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:12
+msgid "Show 404 Page Banner Section"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:13
+msgid "Enable to show 404 Page banner section"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:20
+msgid "404 Page Banner Title"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:21
+#: resource/theme-options/404_setting.php:60
+msgid "Enter the 404 page title"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:29
+msgid "404 Page Banner Subtitle"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:30
+msgid "Enter the 404 page subtitle"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:38
+#: resource/theme-options/archive_setting.php:41
+#: resource/theme-options/author_setting.php:41
+#: resource/theme-options/blog_setting.php:48
+#: resource/theme-options/category_setting.php:42
+#: resource/theme-options/search_setting.php:40
+#: resource/theme-options/tag_setting.php:48
+msgid "Banner Image"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:39
+msgid "Insert the banner image to show on 404 page"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:59
+msgid "404 Page Title"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:67
+msgid "Content Background Image"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:68
+msgid "Insert the content background image to show on 404 page"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:80
+msgid "404 Page Description"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:81
+msgid "Enter the 404 page description"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:88
+msgid "Show Search Bar"
+msgstr ""
+
+#: resource/theme-options/404_setting.php:89
+msgid "Enable to show search bar on 404 page"
+msgstr ""
+
+#: resource/theme-options/about_us_setting.php:4
+msgid "About Us Settings"
+msgstr ""
+
+#: resource/theme-options/about_us_setting.php:12
+msgid "Social Media Icons"
+msgstr ""
+
+#: resource/theme-options/about_us_setting.php:13
+msgid "Click an icon to activate social profile icons in about us widget"
+msgstr ""
+
+#: resource/theme-options/api_key.php:5
+msgid "API Key"
+msgstr ""
+
+#: resource/theme-options/api_key.php:13
+msgid "Instagram API Settings"
+msgstr ""
+
+#: resource/theme-options/api_key.php:18
+msgid "Enter the instagram  id here"
+msgstr ""
+
+#: resource/theme-options/api_key.php:19
+msgid "Instagram ID"
+msgstr ""
+
+#: resource/theme-options/api_key.php:25
+msgid "Enter the instagram  token"
+msgstr ""
+
+#: resource/theme-options/api_key.php:26
+msgid "Instagram Token"
+msgstr ""
+
+#: resource/theme-options/api_key.php:33
+msgid "Youtube API Settings"
+msgstr ""
+
+#: resource/theme-options/api_key.php:39
+msgid "Youtube Api Key"
+msgstr ""
+
+#: resource/theme-options/api_key.php:40
+msgid "Enter the youtube api key for gallery video grabber"
+msgstr ""
+
+#: resource/theme-options/api_key.php:45
+msgid "Google Map API Settings"
+msgstr ""
+
+#: resource/theme-options/api_key.php:51
+msgid "Google Map Api Key"
+msgstr ""
+
+#: resource/theme-options/api_key.php:52
+msgid "Enter the google map api key for google map"
+msgstr ""
+
+#: resource/theme-options/api_key.php:57
+msgid "Mailchimp APIs Configuration Section"
+msgstr ""
+
+#: resource/theme-options/api_key.php:58
+msgid "This section is used to configure mailchimp API settings"
+msgstr ""
+
+#: resource/theme-options/api_key.php:64
+msgid "Mail Chimp List Id"
+msgstr ""
+
+#: resource/theme-options/api_key.php:65
+#, php-format
+msgid "Enter your List ID. You can get it %s"
+msgstr ""
+
+#: resource/theme-options/api_key.php:65 resource/theme-options/api_key.php:71
+msgid "(click here)"
+msgstr ""
+
+#: resource/theme-options/api_key.php:70
+msgid "Mail Chimp Api key"
+msgstr ""
+
+#: resource/theme-options/api_key.php:71
+#, php-format
+msgid "Enter your MailChimp API Key. You can get it %s"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:4
+msgid "Archive Settings"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:12
+msgid "Show Archive Banner Section"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:13
+msgid "Enable to show archive page banner section"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:20
+msgid "Archive Banner Section"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:27
+#: resource/theme-options/author_setting.php:27
+#: resource/theme-options/blog_setting.php:34
+#: resource/theme-options/category_setting.php:28
+#: resource/theme-options/search_setting.php:26
+#: resource/theme-options/tag_setting.php:34
+msgid "Banner Title"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:28
+#: resource/theme-options/author_setting.php:28
+#: resource/theme-options/blog_setting.php:35
+#: resource/theme-options/category_setting.php:29
+#: resource/theme-options/search_setting.php:27
+#: resource/theme-options/tag_setting.php:35
+msgid "Enter the title to show in banner section"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:34
+#: resource/theme-options/author_setting.php:34
+#: resource/theme-options/blog_setting.php:41
+#: resource/theme-options/category_setting.php:35
+#: resource/theme-options/search_setting.php:33
+#: resource/theme-options/tag_setting.php:41
+msgid "Banner Subtitle"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:35
+#: resource/theme-options/author_setting.php:35
+#: resource/theme-options/blog_setting.php:42
+#: resource/theme-options/category_setting.php:36
+#: resource/theme-options/search_setting.php:34
+#: resource/theme-options/tag_setting.php:42
+msgid "Enter the subtitle to show in banner section"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:42
+msgid "Insert the banner image to show on archive page"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:59
+#: resource/theme-options/author_setting.php:59
+#: resource/theme-options/blog_setting.php:67
+#: resource/theme-options/category_setting.php:60
+#: resource/theme-options/general_setting.php:36
+#: resource/theme-options/search_setting.php:58
+#: resource/theme-options/tag_setting.php:66
+msgid "Layout Settings"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:65
+msgid "Archive Page Layout"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:66
+msgid "Select main content and sidebar alignment."
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:69
+#: resource/theme-options/author_setting.php:69
+#: resource/theme-options/blog_setting.php:77
+#: resource/theme-options/category_setting.php:70
+#: resource/theme-options/search_setting.php:68
+#: resource/theme-options/tag_setting.php:76
+msgid "1 Column"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:73
+#: resource/theme-options/author_setting.php:73
+#: resource/theme-options/blog_setting.php:81
+#: resource/theme-options/category_setting.php:74
+#: resource/theme-options/search_setting.php:72
+#: resource/theme-options/tag_setting.php:80
+msgid "2 Column Left"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:77
+#: resource/theme-options/author_setting.php:77
+#: resource/theme-options/blog_setting.php:85
+#: resource/theme-options/category_setting.php:78
+#: resource/theme-options/search_setting.php:76
+#: resource/theme-options/tag_setting.php:84
+msgid "2 Column Right"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:87
+#: resource/theme-options/author_setting.php:87
+#: resource/theme-options/blog_setting.php:94
+#: resource/theme-options/category_setting.php:88
+#: resource/theme-options/footer_setting.php:47
+#: resource/theme-options/search_setting.php:86
+#: resource/theme-options/tag_setting.php:94
+msgid "Sidebar"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:88
+msgid "Select sidebar to show at archive posts listing page"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:104
+msgid "Archive Posts Settings"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:110
+#: resource/theme-options/author_setting.php:110
+#: resource/theme-options/blog_setting.php:117
+#: resource/theme-options/category_setting.php:111
+#: resource/theme-options/search_setting.php:129
+#: resource/theme-options/tag_setting.php:117
+msgid "Apply Masonry"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:111
+msgid "Enable to apply masonry on archive posts grid view listing"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:116
+#: resource/theme-options/author_setting.php:116
+#: resource/theme-options/blog_setting.php:123
+#: resource/theme-options/category_setting.php:117
+#: resource/theme-options/search_setting.php:135
+#: resource/theme-options/tag_setting.php:123
+msgid "Post Title Words Limit"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:117
+#: resource/theme-options/author_setting.php:117
+#: resource/theme-options/blog_setting.php:124
+#: resource/theme-options/category_setting.php:118
+#: resource/theme-options/search_setting.php:136
+#: resource/theme-options/tag_setting.php:124
+msgid "Enter the words limit for post title on post listing"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:123
+#: resource/theme-options/author_setting.php:123
+#: resource/theme-options/blog_setting.php:130
+#: resource/theme-options/category_setting.php:124
+#: resource/theme-options/search_setting.php:142
+#: resource/theme-options/tag_setting.php:130
+#: resource/vc_map/our_blog_post.php:45
+msgid "Post Content Words Limit"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:124
+#: resource/theme-options/author_setting.php:124
+#: resource/theme-options/blog_setting.php:131
+#: resource/theme-options/category_setting.php:125
+#: resource/theme-options/search_setting.php:143
+#: resource/theme-options/tag_setting.php:131
+msgid "Enter the words limit for the content of post listing"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:130
+#: resource/theme-options/author_setting.php:136
+#: resource/theme-options/blog_setting.php:143
+#: resource/theme-options/category_setting.php:137
+#: resource/theme-options/search_setting.php:155
+#: resource/theme-options/single_setting.php:17
+#: resource/theme-options/tag_setting.php:143
+msgid "Show Author"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:131
+#: resource/theme-options/author_setting.php:137
+#: resource/theme-options/blog_setting.php:144
+#: resource/theme-options/category_setting.php:138
+#: resource/theme-options/search_setting.php:156
+#: resource/theme-options/tag_setting.php:144
+msgid "Enable to show author on posts listing"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:136
+#: resource/theme-options/author_setting.php:142
+#: resource/theme-options/blog_setting.php:149
+#: resource/theme-options/category_setting.php:143
+#: resource/theme-options/search_setting.php:161
+#: resource/theme-options/single_setting.php:29
+#: resource/theme-options/tag_setting.php:149
+#: resource/vc_map/our_blog_post.php:68
+msgid "Show Post Comments"
+msgstr ""
+
+#: resource/theme-options/archive_setting.php:137
+#: resource/theme-options/author_setting.php:143
+#: resource/theme-options/blog_setting.php:150
+#: resource/theme-options/category_setting.php:144
+#: resource/theme-options/search_setting.php:162
+#: resource/theme-options/tag_setting.php:150
+msgid "Enable to show post comments count on posts listing"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:4
+msgid "Signin & Signup Settings"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:12
+#: resource/theme-options/header_setting.php:176
+msgid "Signin Box Settings"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:13
+#: resource/theme-options/header_setting.php:177
+msgid "This section is used to customize the user login section"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:19
+#: resource/theme-options/header_setting.php:184
+msgid "Signin Form Title"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:20
+#: resource/theme-options/header_setting.php:185
+msgid "Enter the title for signin form section"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:25
+#: resource/theme-options/header_setting.php:190
+msgid "Signin Form Description"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:26
+#: resource/theme-options/header_setting.php:191
+msgid "Enter the description for signin form section"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:31
+#: resource/theme-options/header_setting.php:202
+msgid "Signin Form Button Label"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:32
+#: resource/theme-options/header_setting.php:203
+msgid "Enter the button label for signin form"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:45
+#: resource/theme-options/header_setting.php:196
+msgid "Show Forgot Password"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:46
+#: resource/theme-options/header_setting.php:197
+msgid "Enable to allow user to reset password"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:51
+msgid "Forget Password Settings"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:52
+msgid "This section is using to customization the Forget password"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:59
+msgid "Forget Password Form Title"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:60
+msgid "Enter the title for Forget Password form section"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:65
+msgid "Forget Password Form Description"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:66
+msgid "Enter the description for forget password form section"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:71
+msgid "Forget Password Form Button Label"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:72
+msgid "Enter the button label for forget password form"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:84
+#: resource/theme-options/header_setting.php:220
+msgid "Registration Box Settings"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:85
+msgid "This section is used to customize the signup form section"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:91
+#: resource/theme-options/header_setting.php:228
+msgid "Signup Form Title"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:92
+#: resource/theme-options/header_setting.php:229
+msgid "Enter the title for signup form section"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:97
+#: resource/theme-options/header_setting.php:234
+msgid "Signup Form Description"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:98
+#: resource/theme-options/header_setting.php:235
+msgid "Enter the description for signup form section"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:103
+#: resource/theme-options/header_setting.php:240
+msgid "Signup Form Button Label"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:104
+#: resource/theme-options/header_setting.php:241
+msgid "Enter the button label for signup form"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:109
+#: resource/theme-options/header_setting.php:247
+msgid "Registration Success Message"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:110
+#: resource/theme-options/header_setting.php:248
+msgid "Enter message for successful registration"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:115
+#: resource/theme-options/authentication_setting.php:121
+#: resource/theme-options/header_setting.php:253
+#: resource/theme-options/header_setting.php:259
+msgid "Terms & Condition"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:116
+msgid "Enable to show terms & conditions option on signup form"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:122
+#: resource/theme-options/header_setting.php:260
+msgid "Enter the terms & condition text"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:128
+#: resource/theme-options/header_setting.php:266
+msgid "Terms & Conditions Page"
+msgstr ""
+
+#: resource/theme-options/authentication_setting.php:129
+#: resource/theme-options/header_setting.php:267
+msgid "Select the page for terms & condition"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:4
+msgid "Author Settings"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:12
+msgid "Show Author Banner Section"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:13
+msgid "Enable to show author banner section"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:20
+msgid "Author Banner Section"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:42
+msgid "Insert the banner image to show on author page"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:65
+msgid "Author Page Layout"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:66
+msgid "Select layout for author page"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:88
+msgid "Select sidebar to show at author posts listing page"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:104
+msgid "Author Posts Settings"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:111
+msgid "Enable to apply masonry on author posts grid view listing"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:130
+#: resource/theme-options/blog_setting.php:137
+#: resource/theme-options/category_setting.php:131
+#: resource/theme-options/search_setting.php:149
+#: resource/theme-options/tag_setting.php:137
+msgid "Show Date"
+msgstr ""
+
+#: resource/theme-options/author_setting.php:131
+#: resource/theme-options/blog_setting.php:138
+#: resource/theme-options/category_setting.php:132
+#: resource/theme-options/search_setting.php:150
+#: resource/theme-options/tag_setting.php:138
+msgid "Enable to show date on posts listing"
+msgstr ""
+
+#: resource/theme-options/blog_setting.php:11
+msgid "Blog Settings"
+msgstr ""
+
+#: resource/theme-options/blog_setting.php:19
+msgid "Show Blog Banner Section"
+msgstr ""
+
+#: resource/theme-options/blog_setting.php:20
+msgid "Enable to show blog banner section"
+msgstr ""
+
+#: resource/theme-options/blog_setting.php:27
+msgid "Blog Banner Section"
+msgstr ""
+
+#: resource/theme-options/blog_setting.php:49
+msgid "Insert the banner image to show on blog page"
+msgstr ""
+
+#: resource/theme-options/blog_setting.php:73
+msgid "Blog Page Layout"
+msgstr ""
+
+#: resource/theme-options/blog_setting.php:74
+msgid "Select layout for blog page"
+msgstr ""
+
+#: resource/theme-options/blog_setting.php:95
+msgid "Select sidebar to show at blog listing page"
+msgstr ""
+
+#: resource/theme-options/blog_setting.php:111
+msgid "Blog Posts Settings"
+msgstr ""
+
+#: resource/theme-options/blog_setting.php:118
+msgid "Enable to apply masonry on blog posts grid view listing"
+msgstr ""
+
+#: resource/theme-options/body_font_setting.php:4
+msgid "Body Font Settings"
+msgstr ""
+
+#: resource/theme-options/body_font_setting.php:12
+msgid "Use Body,Paragraph Custom Font"
+msgstr ""
+
+#: resource/theme-options/body_font_setting.php:13
+msgid "Enable to customize the theme body,p tag font"
+msgstr ""
+
+#: resource/theme-options/body_font_setting.php:18
+msgid "Body Font Typography"
+msgstr ""
+
+#: resource/theme-options/body_font_setting.php:23
+msgid "Apply options to customize the body,paragraph font for the theme"
+msgstr ""
+
+#: resource/theme-options/body_font_settings.php:4
+msgid "Body Font Setting"
+msgstr ""
+
+#: resource/theme-options/category_setting.php:5
+msgid "Category Settings"
+msgstr ""
+
+#: resource/theme-options/category_setting.php:13
+msgid "Show Category Banner Section"
+msgstr ""
+
+#: resource/theme-options/category_setting.php:14
+msgid "Enable to show category banner section"
+msgstr ""
+
+#: resource/theme-options/category_setting.php:21
+msgid "Category Banner Section"
+msgstr ""
+
+#: resource/theme-options/category_setting.php:43
+msgid "Insert the banner image to show on category page"
+msgstr ""
+
+#: resource/theme-options/category_setting.php:66
+msgid "Category Page Layout"
+msgstr ""
+
+#: resource/theme-options/category_setting.php:67
+msgid "Select layout for category page"
+msgstr ""
+
+#: resource/theme-options/category_setting.php:89
+msgid "Select sidebar to show at category posts listing page"
+msgstr ""
+
+#: resource/theme-options/category_setting.php:105
+msgid "Category Posts Settings"
+msgstr ""
+
+#: resource/theme-options/category_setting.php:112
+msgid "Enable to apply masonry on category posts grid view listing"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:4
+msgid "Coming Soon Settings"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:12
+msgid "Coming Soon Page"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:13
+msgid "Enable coming soon page"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:19
+#: resource/vc_map/text_carousal.php:22
+msgid "Background Image"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:20
+msgid "Insert the image for background section"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:30
+msgid "Coming Soon Page Title"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:31
+msgid "Enter the coming soon page title"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:38
+msgid "Coming Soon page description"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:39
+msgid "Enter the coming soon page description"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:45
+msgid "Comming Date"
+msgstr ""
+
+#: resource/theme-options/comingsoon_settings.php:46
+msgid "Select the date when Website will reopen"
+msgstr ""
+
+#: resource/theme-options/custom_fonts_setting.php:5
+msgid "Custom Font Settings"
+msgstr ""
+
+#: resource/theme-options/custom_fonts_setting.php:19
+msgid ""
+"Please upload your desire font file in *.ttf,  *.otf, *.eot, *.woff format"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:4
+msgid "Footer Settings"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:12
+msgid "Footer Background Image"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:13
+msgid "Insert the background image for footer section"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:24
+msgid "Show Instagram Gallery"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:25
+msgid "Enable to show instagram gallery in footer section"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:30 resource/vc_map/vc_row.php:94
+msgid "Gray Background"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:31
+msgid "Enable to show gray background in instagram gallery"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:36
+msgid "Gallery Images Number"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:37
+msgid "Enter the number of images of instagram feeds"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:44
+msgid "Footer Sidebars"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:45
+msgid "Add sidebar area for footer widgets"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:54
+msgid "Sidebar Name"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:59
+msgid "Sidebar Grid"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:61
+msgid "1/2 Grid"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:62
+msgid "1/3 Grid"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:63
+msgid "1/4 Grid"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:64
+msgid "1/6 Grid"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:72
+msgid "Show Footer Bottom Section"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:73
+msgid "Enable to show footer bottom section"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:78
+msgid "Footer Bottom Section"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:79
+msgid "This section is used to show footer bottom section"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:86
+msgid "Copyright Text"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:87
+msgid "Enter the Copyright Text"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:88
+msgid "All Copyrights Reserved By HolyBlogs"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:93
+msgid "Footer Javascript"
+msgstr ""
+
+#: resource/theme-options/footer_setting.php:94
+msgid "Enter javascript code to add in page footer section"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:4
+msgid "Gallery Settings"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:12
+msgid "Gallery Template Settings"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:13
+#: resource/theme-options/portfolio_setting.php:13
+msgid "This section is used to customize the gallery template"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:19
+msgid "Gallery Listing Style"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:20
+msgid "Select the gallery listing style for gallery template"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:23
+msgid "Gallery Style 2 Columns"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:27
+msgid "Gallery Style 3 Columns"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:31
+msgid "Gallery Style 4 Columns"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:35
+msgid "Gallery Masonry Style 1"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:39
+msgid "Gallery Masonry Style 2"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:43
+msgid "Gallery Masonry Style 3"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:52
+msgid "Show Gallery Tilte"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:53
+msgid "Enable to show gallery title on gallery template"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:58
+msgid "Show Gallery Description"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:59
+msgid "Enable to show gallery description on gallery template"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:64
+#: resource/theme-options/portfolio_setting.php:45
+msgid "Show Pagination"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:65
+msgid "Enable to show galleries listing pagination on gallery template"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:70
+msgid "Galleries Per Page"
+msgstr ""
+
+#: resource/theme-options/gallery_setting.php:71
+msgid "Enter the number of galleries to show per page"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:5
+msgid "General Settings"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:14
+msgid "Site Favicon"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:15
+#: resource/theme-options/header_setting.php:89
+msgid "Insert site logo image with adjustable size for the logo section"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:22
+msgid "Color Scheme"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:29
+msgid "RTL(Right-To-Left)"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:30
+msgid "Enable to make site content view right to left"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:42
+msgid "Boxed Layout"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:43
+msgid "Enable to make the site layout in boxed version"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:49
+msgid "Top Margin"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:50
+msgid "Enter top margin for boxed layout"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:51
+msgid "Add value for top maring of boxed layout"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:62
+msgid "Bottom Margin"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:63
+msgid "Enter bottom margin for boxed layout"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:64
+msgid "Add value for bottom maring of boxed layout"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:75
+msgid "Background Settings"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:82
+msgid "Background Type"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:83
+msgid "Please select background type to show"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:86
+msgid "Default Patterns"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:87
+msgid "Custom Background"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:94
+msgid "Select Patterns"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:95
+msgid "Select the pattern image to apply on background for boxed layout"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:98
+msgid "None"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:102
+msgid "Pattern 1"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:106
+msgid "Pattern 2"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:110
+msgid "Pattern 3"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:114
+msgid "Pattern 4"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:118
+msgid "Pattern 5"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:122
+msgid "Pattern 6"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:126
+msgid "Pattern 7"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:130
+msgid "Pattern 8"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:134
+msgid "Pattern 9"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:138
+msgid "Pattern 10"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:142
+msgid "Pattern 11"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:146
+msgid "Pattern 12"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:150
+msgid "Pattern 13"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:154
+msgid "Pattern 14"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:164
+msgid "Body Background"
+msgstr ""
+
+#: resource/theme-options/general_setting.php:165
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: resource/theme-options/general_setting.php:166
+msgid "Body background options to set image or color for boxed layout version."
+msgstr ""
+
+#: resource/theme-options/header_setting.php:4
+msgid "Header Setting"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:12
+msgid "Top Bar"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:13
+msgid "Enable to show header top bar"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:18
+msgid "Top Bar Settings"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:19
+msgid "This section is using for top bar customization"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:26
+msgid "Email Address"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:27
+msgid "Enter the email address to show at top bar"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:32
+#: resource/theme-options/header_setting.php:334
+msgid "Phone"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:33
+#: resource/theme-options/header_setting.php:335
+msgid "Enter the phone number to show at top bar"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:38
+#: resource/vc_map/products_grid.php:48 resource/vc_map/products_list.php:40
+#: resource/vc_map/products_list_style2.php:40
+msgid "Date"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:39
+msgid "Enter the Working Day & Date to show at top bar"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:44
+msgid "Allow Signin/Signup"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:45
+msgid "Enable to allow user to Singin/Signup on your site"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:50
+msgid "User Authentication Label"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:51
+msgid "Enter the label for user authentication link"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:63
+msgid "Sticky Header"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:64
+msgid "Enable to make header sticky"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:69
+msgid "Logo Settings"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:70
+msgid "This section is using for logo customization"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:76
+msgid "Logo Type"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:77
+msgid "Select the logo type either image or custom text"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:79
+#: resource/vc_map/about_event.php:61 resource/vc_map/about_us.php:50
+#: resource/vc_map/our_facts.php:51
+msgid "Image"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:80
+msgid "Custom Text"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:88
+msgid "Logo Image"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:99
+msgid "Logo Image 2"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:100
+msgid "Insert the site logo for toggle panel"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:113
+msgid "Logo Width"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:114
+msgid "Select width for the logo in header section"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:125
+msgid "Logo Hieght"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:126
+msgid "Select height for the logo in header section"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:136
+msgid "Logo Text"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:137
+msgid "Enter the logo text to show in the site logo section"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:144
+msgid "Logo Font Typography"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:149
+msgid "Apply options to customize the logo fonts for the theme"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:169
+msgid "Show Search"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:170
+msgid "Enable to search in header"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:208
+msgid "Singin Background Image"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:209
+msgid "Insert the background image singin popup box"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:221
+msgid "This section is used to customize the registration form section"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:254
+msgid "Enable to show terms & conditions option on registration form"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:274
+msgid "Signup Background Image"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:275
+msgid "Insert the background image signup popup box"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:292
+#: resource/theme-options/header_setting.php:341
+msgid "Show Social Icons"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:293
+msgid "Enable to show social icons"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:299
+msgid "Social Media Settings"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:306
+#: resource/theme-options/header_setting.php:347
+msgid "Social Profiles"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:307
+#: resource/theme-options/header_setting.php:348
+msgid "Click an icon to activate social profile icons in header section"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:308
+#: resource/theme-options/header_setting.php:349
+msgid "Click an icon to activate social profile icons in footer section"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:314
+msgid "Responsive Header Settings"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:315
+msgid "This section is used to customize the responsive header"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:321
+msgid "Show Topbar"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:322
+msgid "Enable to show topbar in responsive header"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:327
+msgid "Address"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:328
+msgid "Enter the address to show at top bar"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:342
+msgid "Enable to show social icons in responsive header"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:360
+msgid "Header Code Css"
+msgstr ""
+
+#: resource/theme-options/header_setting.php:361
+msgid ""
+"Enter the the header code wich you want to add in page head section like css/"
+"script/meta etc"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:4
+msgid "Heading Setting"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:14
+msgid "Use H1 Custom Font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:16
+msgid "Enable to customize the theme heading h1 tag font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:24
+msgid "H1 Font Typography"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:34
+msgid "Apply options to customize the h1 heading font for the theme"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:58
+msgid "Use H2 Custom Font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:60
+msgid "Enable to customize the theme heading h2 tag font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:68
+msgid "H2 Font Typography"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:78
+msgid "Apply options to customize the h2 heading font for the theme"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:102
+msgid "Use H3 Custom Font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:104
+msgid "Enable to customize the theme heading h3 tag font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:112
+msgid "H3 Font Typography"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:122
+msgid "Apply options to customize the h3 heading  for the theme"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:146
+msgid "Use H4 Custom Font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:148
+msgid "Enable to customize the theme heading h4 tag font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:156
+msgid "H4 Font Typography"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:166
+msgid "Apply options to customize the h4 heading font for the theme"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:190
+msgid "Use H5 Custom Font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:192
+msgid "Enable to customize the theme heading h5 tag font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:200
+msgid "H5 Font Typography"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:210
+msgid "Apply options to customize the h5 heading font for the theme"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:234
+msgid "Use H6 Custom Font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:236
+msgid "Enable to customize the theme heading h6 tag font"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:244
+msgid "H6 Font Typography"
+msgstr ""
+
+#: resource/theme-options/heading_setting.php:254
+msgid "Apply options to customize the h6 heading font for the theme"
+msgstr ""
+
+#: resource/theme-options/language_setting.php:4
+msgid "Language Settings"
+msgstr ""
+
+#: resource/theme-options/language_setting.php:12
+msgid "Please upload .mo language file"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:4
+msgid "Portfolio Detail Settings"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:12
+#: resource/theme-options/single_setting.php:47
+msgid "Show Social Share"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:13
+msgid "Enable to show social share options"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:19
+msgid "Portfolio Share Settings"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:27
+#: resource/theme-options/single_setting.php:62
+msgid "Post Sharing Icons"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:28
+msgid "Select icons to activate social sharing icons in portfolio detail page"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:31
+#: resource/theme-options/single_setting.php:66
+msgid "Facebook"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:32
+#: resource/theme-options/single_setting.php:67
+msgid "Twitter"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:33
+#: resource/theme-options/single_setting.php:68
+msgid "Google Plus"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:34
+#: resource/theme-options/single_setting.php:69
+msgid "Digg Digg"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:35
+#: resource/theme-options/single_setting.php:70
+msgid "Reddit"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:36
+#: resource/theme-options/single_setting.php:71
+msgid "Linkedin"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:37
+#: resource/theme-options/single_setting.php:72
+msgid "Pinterest"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:38
+#: resource/theme-options/single_setting.php:73
+msgid "Sumbleupon"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:39
+#: resource/theme-options/single_setting.php:74
+msgid "Tumblr"
+msgstr ""
+
+#: resource/theme-options/portfolio_post_setting.php:40
+#: resource/theme-options/single_setting.php:75
+#: resource/vc_map/testimonials_with_contact_form.php:139
+msgid "Email"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:4
+msgid "Portfolios Settings"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:12
+msgid "Portfolio Template Settings"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:19
+msgid "Show Portfolio Tilte"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:20
+msgid "Enable to show portfolio title on portfolio template"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:25
+msgid "Portfolios Title Words Limit"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:26
+msgid "Enter the portfolio title words limit to show on portfolio"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:33
+msgid "Show Portfolio Counter"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:34
+msgid "Enable to show portfolio Counter on portfolio template"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:39
+#: resource/vc_map/our_portfolio.php:60
+msgid "Show Portfolio Features"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:40
+msgid "Enable to show portfolio features on portfolio template"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:46
+msgid "Enable to show portfolios listing pagination on portfolio template"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:51
+msgid "Portfolios Per Page"
+msgstr ""
+
+#: resource/theme-options/portfolio_setting.php:52
+msgid "Enter the number portfolios to show per page"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:4
+msgid "Single Product Settings"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:12
+msgid "Product Image Type"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:13
+msgid "Select image type for product detail page"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:15
+msgid "Theme Default"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:16
+msgid "Woocommerce Default"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:23
+#: resource/theme-options/products_page_setting.php:64
+msgid "Show Product Compare"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:24
+msgid "Enable to show product compare button on product detail page"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:29
+msgid "Show Product Tags"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:30
+msgid "Enable to show product tags on product detail page"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:35
+msgid "Show Product Categories"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:36
+msgid "Enable to show product categories on product detail page"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:41
+msgid "Show Related Products"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:42
+msgid "Enable to show related products on product detail page"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:47
+msgid "Related Product Section Settings"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:54
+#: resource/vc_map/wellcome_to_store.php:22
+msgid "Section Title"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:55
+msgid "Enter the title to show on related product section"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:61
+msgid "Section Subtitle"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:62
+msgid "Enter the subtitle to show on related product section"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:68
+msgid "Section Description"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:69
+msgid "Enter the description to show on related product section"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:75
+msgid "Product Number"
+msgstr ""
+
+#: resource/theme-options/product_setting.php:76
+msgid "Enter the number of related products to show in this section"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:4
+msgid "Products Page Settings"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:12
+msgid "Products Style"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:13
+msgid "Select products style for products listing on shop page"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:15
+msgid "Grid"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:16
+msgid "List"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:23
+msgid "Select Grids Numbers"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:24
+msgid "Choose products listing grid numbers"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:27
+msgid "3 Grids"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:31
+msgid "4 Grids"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:41
+msgid "Product Title Limit"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:42
+msgid "Enter the title words limit for product listing"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:49
+msgid "Product Description Limit"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:50
+msgid "Enter the description words limit for product listing"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:57
+msgid "Show Products Rating"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:58
+msgid "Enable to show products rating for products listing on shop page"
+msgstr ""
+
+#: resource/theme-options/products_page_setting.php:65
+msgid ""
+"Enable to show products compare button for products listing on shop page"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:4
+msgid "Search Settings"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:12
+msgid "Show Search Banner Section"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:13
+msgid "Enable to show search banner section"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:19
+msgid "Search Banner Section"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:41
+msgid "Insert the banner image to show on search page"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:64
+msgid "Search Page Layout"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:65
+msgid "Select layout for blog search page"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:87
+msgid "Select sidebar to show at search posts listing page"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:103
+msgid "Search Posts Settings"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:109
+msgid "Show Search Form"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:110
+msgid "Enable to show search form on search posts template"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:115
+msgid "Search Form Title"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:116
+msgid "Enter the search form title to show on search posts template"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:122
+msgid "Search Form Description"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:123
+msgid "Enter the search form description to show on search posts template"
+msgstr ""
+
+#: resource/theme-options/search_setting.php:130
+msgid "Enable to apply masonry on search posts grid view listing"
+msgstr ""
+
+#: resource/theme-options/sidebar_setting.php:4
+msgid "Custom Sidebar Settings"
+msgstr ""
+
+#: resource/theme-options/sidebar_setting.php:12
+msgid "Dynamic Custom Sidebar"
+msgstr ""
+
+#: resource/theme-options/sidebar_setting.php:13
+msgid "This section is used to create custom sidebar"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:5
+msgid "Blog Detail Settings"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:18
+msgid "Enable to show author on post"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:23
+#: resource/vc_map/our_blog_post.php:60
+msgid "Show Post Date"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:24
+msgid "Enable to show post date on post"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:30
+msgid "Enable to show post comments count on post"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:35
+msgid "Show Post Tags"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:36
+msgid "Enable to show post tags on posts page"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:41
+msgid "Show Post Categories"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:42
+msgid "Enable to show post categories on post detail page"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:48
+msgid "Enable to show social Share icon"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:54
+msgid "Post Share Settings"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:63
+msgid "Select social media to activate post sharing in post detail page"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:87
+msgid "Post Blockqoute Background"
+msgstr ""
+
+#: resource/theme-options/single_setting.php:88
+msgid "Insert the image for post blockqoute backround"
+msgstr ""
+
+#: resource/theme-options/tag_setting.php:11
+msgid "Tag Page Settings"
+msgstr ""
+
+#: resource/theme-options/tag_setting.php:19
+msgid "Show Tag Banner Section"
+msgstr ""
+
+#: resource/theme-options/tag_setting.php:20
+msgid "Enable to show tag page banner section"
+msgstr ""
+
+#: resource/theme-options/tag_setting.php:27
+msgid "Tag Banner Section"
+msgstr ""
+
+#: resource/theme-options/tag_setting.php:49
+msgid "Insert the banner image to show on tag page"
+msgstr ""
+
+#: resource/theme-options/tag_setting.php:72
+msgid "Tag Page Layout"
+msgstr ""
+
+#: resource/theme-options/tag_setting.php:73
+msgid "Select layout for tag page"
+msgstr ""
+
+#: resource/theme-options/tag_setting.php:95
+msgid "Select sidebar to show at tag posts listing page"
+msgstr ""
+
+#: resource/theme-options/tag_setting.php:111
+msgid "Tag Posts Settings"
+msgstr ""
+
+#: resource/theme-options/tag_setting.php:118
+msgid "Enable to apply masonry on tag posts grid view listing"
+msgstr ""
+
+#: resource/theme-options/templates_setting.php:4
+msgid "Theme Templates Settings"
+msgstr ""
+
+#: resource/theme-options/typekit_settings.php:4
+msgid "Typekit Settings"
+msgstr ""
+
+#: resource/theme-options/typekit_settings.php:12
+msgid "Typekit Setting"
+msgstr ""
+
+#: resource/theme-options/typekit_settings.php:17
+msgid "Typekit Script"
+msgstr ""
+
+#: resource/theme-options/typekit_settings.php:18
+msgid "Enter custom typkit script to use typekit fonts"
+msgstr ""
+
+#: resource/theme-options/typographySetting.php:5
+msgid "Typography Setting"
+msgstr ""
+
+#: resource/vc_map/about_event.php:17
+msgid "About Event"
+msgstr ""
+
+#: resource/vc_map/about_event.php:20
+msgid "Widgets"
+msgstr ""
+
+#: resource/vc_map/about_event.php:28
+msgid "Enter the title for about event section"
+msgstr ""
+
+#: resource/vc_map/about_event.php:33
+msgid "Add Custom events"
+msgstr ""
+
+#: resource/vc_map/about_event.php:41
+msgid "Heading"
+msgstr ""
+
+#: resource/vc_map/about_event.php:43
+msgid "Enter the event heading"
+msgstr ""
+
+#: resource/vc_map/about_event.php:49
+msgid "Tagline"
+msgstr ""
+
+#: resource/vc_map/about_event.php:51
+msgid "Enter the event tagline"
+msgstr ""
+
+#: resource/vc_map/about_event.php:57
+msgid "Icon type"
+msgstr ""
+
+#: resource/vc_map/about_event.php:59
+msgid "Choose the event icon type"
+msgstr ""
+
+#: resource/vc_map/about_event.php:62 resource/vc_map/about_event.php:81
+msgid "VC Icon"
+msgstr ""
+
+#: resource/vc_map/about_event.php:69 resource/vc_map/vc_row.php:213
+msgid "Image Icon"
+msgstr ""
+
+#: resource/vc_map/about_event.php:71
+msgid "Choose the event icon image"
+msgstr ""
+
+#: resource/vc_map/about_event.php:83
+msgid "Choose the event icon"
+msgstr ""
+
+#: resource/vc_map/about_event.php:93
+msgid "Event Link"
+msgstr ""
+
+#: resource/vc_map/about_event.php:95
+msgid "Select or enter the url for this evet."
+msgstr ""
+
+#: resource/vc_map/about_us.php:14
+msgid "About Us"
+msgstr ""
+
+#: resource/vc_map/about_us.php:17 resource/vc_map/contact_banner.php:17
+#: resource/vc_map/contact_info.php:18 resource/vc_map/custom_services.php:17
+#: resource/vc_map/featured_video.php:18
+#: resource/vc_map/flooring_solutions.php:18
+#: resource/vc_map/gallery_style_1.php:17
+#: resource/vc_map/gallery_style_2.php:17
+#: resource/vc_map/gallery_style_3.php:17 resource/vc_map/google_map.php:17
+#: resource/vc_map/newsletter.php:17 resource/vc_map/our_blog_post.php:17
+#: resource/vc_map/our_facts.php:17 resource/vc_map/our_portfolio.php:17
+#: resource/vc_map/our_sponsors.php:17 resource/vc_map/our_team.php:17
+#: resource/vc_map/owl_slider.php:17
+#: resource/vc_map/portfolios_with_categories_tabs.php:17
+#: resource/vc_map/products_grid.php:17 resource/vc_map/products_list.php:17
+#: resource/vc_map/products_list_style2.php:17
+#: resource/vc_map/social_profile.php:17
+#: resource/vc_map/testimonials_with_contact_form.php:17
+#: resource/vc_map/text_carousal.php:17
+#: resource/vc_map/wellcome_to_store.php:17
+msgid "Floorpress"
+msgstr ""
+
+#: resource/vc_map/about_us.php:23
+msgid "Enter the title for this section"
+msgstr ""
+
+#: resource/vc_map/about_us.php:29
+#: resource/vc_map/portfolios_with_categories_tabs.php:36
+#: resource/vc_map/wellcome_to_store.php:38
+msgid "Tag Line"
+msgstr ""
+
+#: resource/vc_map/about_us.php:30 resource/vc_map/wellcome_to_store.php:39
+msgid "Enter the tag line for this section"
+msgstr ""
+
+#: resource/vc_map/about_us.php:36
+#: resource/vc_map/testimonials_with_contact_form.php:41
+#: resource/vc_map/wellcome_to_store.php:30
+msgid "After Title"
+msgstr ""
+
+#: resource/vc_map/about_us.php:37 resource/vc_map/wellcome_to_store.php:31
+msgid "Enter the after title text for this section"
+msgstr ""
+
+#: resource/vc_map/about_us.php:44 resource/vc_map/our_facts.php:37
+#: resource/vc_map/wellcome_to_store.php:47
+msgid "Enter the description for this section"
+msgstr ""
+
+#: resource/vc_map/about_us.php:51
+msgid "Select the image for this section"
+msgstr ""
+
+#: resource/vc_map/about_us.php:57 resource/vc_map/wellcome_to_store.php:54
+msgid "Read More Button"
+msgstr ""
+
+#: resource/vc_map/about_us.php:60 resource/vc_map/wellcome_to_store.php:57
+msgid "Enable to show read more button in this section"
+msgstr ""
+
+#: resource/vc_map/about_us.php:65 resource/vc_map/contact_banner.php:43
+#: resource/vc_map/flooring_solutions.php:51 resource/vc_map/newsletter.php:43
+#: resource/vc_map/our_portfolio.php:84
+#: resource/vc_map/portfolios_with_categories_tabs.php:105
+msgid "Button Label"
+msgstr ""
+
+#: resource/vc_map/about_us.php:67 resource/vc_map/contact_banner.php:45
+#: resource/vc_map/flooring_solutions.php:53 resource/vc_map/newsletter.php:45
+msgid "Enter the text for the button label"
+msgstr ""
+
+#: resource/vc_map/about_us.php:76 resource/vc_map/contact_banner.php:50
+#: resource/vc_map/flooring_solutions.php:58
+msgid "Button URL"
+msgstr ""
+
+#: resource/vc_map/about_us.php:78 resource/vc_map/contact_banner.php:52
+#: resource/vc_map/flooring_solutions.php:60
+msgid "Enter the URL for the button to redirect the user"
+msgstr ""
+
+#: resource/vc_map/contact_banner.php:14
+msgid "Our Contact"
+msgstr ""
+
+#: resource/vc_map/contact_banner.php:22
+msgid "Section Logo"
+msgstr ""
+
+#: resource/vc_map/contact_banner.php:23
+msgid "Select the logo for this section"
+msgstr ""
+
+#: resource/vc_map/contact_banner.php:30
+msgid "Enter the title for the contact info section"
+msgstr ""
+
+#: resource/vc_map/contact_banner.php:36
+msgid "Phone Number"
+msgstr ""
+
+#: resource/vc_map/contact_banner.php:37
+msgid "Enter the phone number to show in contact info section"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:15
+msgid "Contact Info"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:23 resource/vc_map/our_sponsors.php:22
+#: resource/vc_map/social_profile.php:29
+#: resource/vc_map/testimonials_with_contact_form.php:147
+msgid "Custom Fields"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:30 resource/vc_map/social_profile.php:36
+msgid "Select Icon"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:31 resource/vc_map/social_profile.php:37
+msgid "Select the icon to show the contact info section"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:37
+msgid "Contact Label"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:38
+msgid "Enter the label for contact info section"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:44
+msgid "URL Field"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:45
+msgid "Enable URL Field"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:46
+msgid "if you want to use url enable url Field for the contact info section."
+msgstr ""
+
+#: resource/vc_map/contact_info.php:53
+msgid "Enter the text for the contact info section"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:59
+msgid "Web URL"
+msgstr ""
+
+#: resource/vc_map/contact_info.php:60
+msgid "Enter the URL for the contact info section to redirect the user"
+msgstr ""
+
+#: resource/vc_map/custom_services.php:14
+#: resource/vc_map/custom_services.php:22
+msgid "Custom Services"
+msgstr ""
+
+#: resource/vc_map/custom_services.php:29
+msgid "Service Title"
+msgstr ""
+
+#: resource/vc_map/custom_services.php:30
+msgid "Enter the title of the service"
+msgstr ""
+
+#: resource/vc_map/custom_services.php:37
+msgid "Enter the description for the service"
+msgstr ""
+
+#: resource/vc_map/custom_services.php:43
+msgid "Service Image"
+msgstr ""
+
+#: resource/vc_map/custom_services.php:44
+msgid "Select the image for the service"
+msgstr ""
+
+#: resource/vc_map/featured_video.php:15
+msgid "Featured Video"
+msgstr ""
+
+#: resource/vc_map/featured_video.php:22
+msgid "Video Link"
+msgstr ""
+
+#: resource/vc_map/featured_video.php:24
+msgid "Enter the video link after uploading video in your wordpress"
+msgstr ""
+
+#: resource/vc_map/featured_video.php:28
+msgid "Video Title"
+msgstr ""
+
+#: resource/vc_map/featured_video.php:30
+msgid "Enter the video title"
+msgstr ""
+
+#: resource/vc_map/featured_video.php:34
+msgid "Video Description"
+msgstr ""
+
+#: resource/vc_map/featured_video.php:36
+msgid "Enter the video description"
+msgstr ""
+
+#: resource/vc_map/flooring_solutions.php:15
+msgid "Banner Strip"
+msgstr ""
+
+#: resource/vc_map/flooring_solutions.php:23
+msgid "Title Slogan"
+msgstr ""
+
+#: resource/vc_map/flooring_solutions.php:25
+msgid "Enter the title slogan to show in this section"
+msgstr ""
+
+#: resource/vc_map/flooring_solutions.php:32 resource/vc_map/newsletter.php:31
+msgid ""
+"Enter the title to show in this section. Note:Use %colorstart%Your Text"
+"%colorend% for color strings"
+msgstr ""
+
+#: resource/vc_map/flooring_solutions.php:39
+msgid ""
+"Enter the subtitle to show in this section. Note:Use %colorstart%Your Text"
+"%colorend% for color strings"
+msgstr ""
+
+#: resource/vc_map/flooring_solutions.php:46 resource/vc_map/newsletter.php:38
+msgid "Enter the description to show in this section"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:14
+msgid "Gallery Style 1"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:22
+msgid "Gallery View"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:24 resource/vc_map/products_grid.php:48
+#: resource/vc_map/products_list.php:40
+#: resource/vc_map/products_list_style2.php:40
+#: resource/vc_map/products_list_style2.php:48
+msgid "Random"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:24
+msgid "Four Columns"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:24
+msgid "Three Columns"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:24
+msgid "Two Columns"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:25
+msgid "Select the gallery column view for this section"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:30
+#: resource/vc_map/gallery_style_2.php:22
+#: resource/vc_map/gallery_style_3.php:22
+msgid "Number"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:32
+#: resource/vc_map/gallery_style_2.php:24
+#: resource/vc_map/gallery_style_3.php:24
+msgid "Enter the number of galleries to show in this section"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:37
+#: resource/vc_map/gallery_style_2.php:29
+#: resource/vc_map/gallery_style_3.php:29 resource/vc_map/our_blog_post.php:30
+#: resource/vc_map/our_portfolio.php:30
+#: resource/vc_map/portfolios_with_categories_tabs.php:51
+msgid "Select Categories"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:40
+#: resource/vc_map/gallery_style_2.php:32
+#: resource/vc_map/gallery_style_3.php:32
+msgid "Choose gallery categories for which galleries you want to show"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:45
+#: resource/vc_map/gallery_style_2.php:37
+#: resource/vc_map/gallery_style_3.php:37 resource/vc_map/our_blog_post.php:52
+#: resource/vc_map/our_portfolio.php:52 resource/vc_map/our_team.php:29
+#: resource/vc_map/portfolios_with_categories_tabs.php:73
+#: resource/vc_map/products_grid.php:38 resource/vc_map/products_list.php:30
+#: resource/vc_map/products_list_style2.php:30
+#: resource/vc_map/testimonials_with_contact_form.php:74
+msgid "Order"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:47
+#: resource/vc_map/gallery_style_2.php:40
+#: resource/vc_map/gallery_style_3.php:39 resource/vc_map/our_blog_post.php:54
+#: resource/vc_map/our_portfolio.php:54 resource/vc_map/our_team.php:31
+#: resource/vc_map/portfolios_with_categories_tabs.php:75
+#: resource/vc_map/products_grid.php:40 resource/vc_map/products_list.php:32
+#: resource/vc_map/products_list_style2.php:32
+#: resource/vc_map/testimonials_with_contact_form.php:76
+msgid "Ascending"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:47
+#: resource/vc_map/gallery_style_2.php:41
+#: resource/vc_map/gallery_style_3.php:39 resource/vc_map/our_blog_post.php:54
+#: resource/vc_map/our_portfolio.php:54 resource/vc_map/our_team.php:31
+#: resource/vc_map/portfolios_with_categories_tabs.php:75
+#: resource/vc_map/products_grid.php:40 resource/vc_map/products_list.php:32
+#: resource/vc_map/products_list_style2.php:32
+#: resource/vc_map/testimonials_with_contact_form.php:76
+msgid "Descending"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:48
+#: resource/vc_map/gallery_style_2.php:43
+#: resource/vc_map/gallery_style_3.php:40
+msgid "Select sorting order ascending or descending for galleries listing"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:53
+#: resource/vc_map/gallery_style_2.php:48
+#: resource/vc_map/gallery_style_3.php:45 resource/vc_map/vc_row.php:164
+msgid "Show Title"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:56
+#: resource/vc_map/gallery_style_2.php:51
+#: resource/vc_map/gallery_style_3.php:48
+msgid "Enable to show gallery title in gallery listing"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:61
+#: resource/vc_map/gallery_style_2.php:56
+#: resource/vc_map/gallery_style_3.php:53
+msgid "Show Short Description"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:64
+#: resource/vc_map/gallery_style_2.php:59
+#: resource/vc_map/gallery_style_3.php:56
+msgid "Enable to show gallery short description in gallery listing"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:69
+#: resource/vc_map/gallery_style_2.php:64
+#: resource/vc_map/gallery_style_3.php:61
+#: resource/vc_map/portfolios_with_categories_tabs.php:127
+msgid "Show Categories Tabs"
+msgstr ""
+
+#: resource/vc_map/gallery_style_1.php:72
+#: resource/vc_map/gallery_style_2.php:67
+#: resource/vc_map/gallery_style_3.php:64
+msgid "Enable to show categories tabs  in this section"
+msgstr ""
+
+#: resource/vc_map/gallery_style_2.php:14
+msgid "Gallery Style 2"
+msgstr ""
+
+#: resource/vc_map/gallery_style_3.php:14
+msgid "Gallery Style 3"
+msgstr ""
+
+#: resource/vc_map/google_map.php:14
+msgid "Google Map"
+msgstr ""
+
+#: resource/vc_map/google_map.php:22
+msgid "Latitude"
+msgstr ""
+
+#: resource/vc_map/google_map.php:23
+msgid "Enter the latitude for the google map"
+msgstr ""
+
+#: resource/vc_map/google_map.php:29
+msgid "Longitude"
+msgstr ""
+
+#: resource/vc_map/google_map.php:30
+msgid "Enter the longitude for the google map"
+msgstr ""
+
+#: resource/vc_map/google_map.php:36
+msgid "Location Pointer Image"
+msgstr ""
+
+#: resource/vc_map/google_map.php:37
+msgid "Select the image google map location pointer"
+msgstr ""
+
+#: resource/vc_map/newsletter.php:14
+msgid "Subscribe Newsletter"
+msgstr ""
+
+#: resource/vc_map/newsletter.php:22
+msgid "Short Title"
+msgstr ""
+
+#: resource/vc_map/newsletter.php:24
+msgid "Enter the short description to show in this section"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:14
+msgid "Our Blog Post"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:22
+msgid "Posts Grid Columns"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:24 resource/vc_map/our_portfolio.php:24
+#: resource/vc_map/portfolios_with_categories_tabs.php:45
+#: resource/vc_map/products_grid.php:24
+msgid "Three Column"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:24 resource/vc_map/our_portfolio.php:24
+msgid "Two Column"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:25
+msgid "Choose post dispaly style for this section"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:33
+msgid "Choose posts categories for which categories you want to show posts"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:38
+msgid "Number Of Posts"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:40
+msgid "Enter the number of posts to show in this section"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:47
+msgid "Enter the posts Content words limit to show in this section"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:55
+msgid "Select sorting order ascending or descending for posts listing"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:62
+msgid "Post Date"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:63
+msgid "Enable to show post date."
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:70
+msgid "Post Comments"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:71
+msgid "Enable to show post comments"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:76
+#: resource/vc_map/portfolios_with_categories_tabs.php:89
+msgid "Show Post Category"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:78
+#: resource/vc_map/portfolios_with_categories_tabs.php:91
+msgid "Post Category"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:79
+#: resource/vc_map/portfolios_with_categories_tabs.php:92
+msgid "Enable to show post category."
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:84
+msgid "Show Post Author"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:86
+msgid "Post Author"
+msgstr ""
+
+#: resource/vc_map/our_blog_post.php:87
+msgid "Enable to show post author"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:14
+msgid "Our Facts"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:23
+msgid ""
+"Enter the title for this section. Note:Use %colorstart%Your Text%colorend% "
+"for color strings"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:30
+msgid "Enter the subtitle for this section"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:43
+msgid "Show Video Section"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:44
+msgid "Enable to show Video on this section"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:52
+msgid "Upload image to show in this section"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:62
+msgid "Video URL"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:63
+msgid "Enter the url of your video for this section"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:73
+msgid "Facts"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:80
+msgid "Fact Label"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:81
+msgid "Enter the label for the fact"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:87
+msgid "Fact Value"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:88
+msgid "Enter the value for this fact"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:94
+msgid "Fact Symbol"
+msgstr ""
+
+#: resource/vc_map/our_facts.php:95
+msgid "Enter the symbol value for this fact"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:14
+msgid "Our Portfolio"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:22
+#: resource/vc_map/portfolios_with_categories_tabs.php:43
+msgid "Columns Styles"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:25
+#: resource/vc_map/portfolios_with_categories_tabs.php:46
+msgid "Choose portfolios dispaly style for this section"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:33
+#: resource/vc_map/portfolios_with_categories_tabs.php:54
+msgid ""
+"Choose portfolios categories for which categories you want to show portfolios"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:38
+#: resource/vc_map/portfolios_with_categories_tabs.php:59
+msgid "Number Of Portfolios"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:40
+#: resource/vc_map/portfolios_with_categories_tabs.php:61
+msgid "Enter the number of portfolios to show in this section"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:45
+#: resource/vc_map/portfolios_with_categories_tabs.php:66
+msgid "Portfolio Title Words Limit"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:47
+#: resource/vc_map/portfolios_with_categories_tabs.php:68
+msgid "Enter the portfolios title words limit to show in this section"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:55
+#: resource/vc_map/portfolios_with_categories_tabs.php:76
+msgid "Select sorting order ascending or descending for portfolios listing"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:62
+msgid "Features"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:63
+msgid "Enable to show portfolio features"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:68
+msgid "Show Counter"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:70
+msgid "Counter"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:71
+msgid "Enable to show portfolio counter"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:76
+#: resource/vc_map/portfolios_with_categories_tabs.php:97
+msgid "Show Button"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:78
+#: resource/vc_map/portfolios_with_categories_tabs.php:99
+msgid "View All"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:79
+#: resource/vc_map/portfolios_with_categories_tabs.php:100
+msgid "Enable to show view all portfolios button in this section"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:86
+#: resource/vc_map/portfolios_with_categories_tabs.php:107
+msgid "Enter the text for the button label of view all portfolios"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:95
+#: resource/vc_map/portfolios_with_categories_tabs.php:116
+msgid "Button Link"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:97
+msgid "Enter URL for the button to redirect the user"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:106
+msgid "Section Overlap"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:108
+msgid "Overlap"
+msgstr ""
+
+#: resource/vc_map/our_portfolio.php:109
+msgid "Enable to section overlap to upward"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:14
+msgid "Our Sponsors"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:29
+msgid "Sponsor Name"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:30
+msgid "Enter the name of the sponsor"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:36
+msgid "Sponsor Logo"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:37
+msgid "Select the logo image for the sponsor"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:43
+msgid "Sponsor URL"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:44
+msgid "Enter the URL for the sponsor to redirect the user"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:52
+msgid "Carousel"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:54
+msgid "Enable Carousel"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:55
+msgid "Enable Carousel for sponsors listing."
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:60
+msgid "Mobile Items"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:62
+msgid "Enter the number of items to display for mobile versions"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:72
+msgid "Tablet Items"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:75
+msgid "Enter the number of items to display for tablet versions"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:84
+msgid "Ipad Items"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:87
+msgid "Enter the number of items to display for ipad versions"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:96
+msgid "Desktop Items"
+msgstr ""
+
+#: resource/vc_map/our_sponsors.php:99
+msgid "Enter the number of items to display for desktop versions"
+msgstr ""
+
+#: resource/vc_map/our_team.php:14
+msgid "Our Team"
+msgstr ""
+
+#: resource/vc_map/our_team.php:22
+msgid "Number Of Members"
+msgstr ""
+
+#: resource/vc_map/our_team.php:24
+msgid "Enter the number of members to show in this section"
+msgstr ""
+
+#: resource/vc_map/our_team.php:32
+msgid "Select sorting order ascending or descending for members listing"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:14
+msgid "Owl Images Slider"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:23
+msgid "Enter the title of the slider"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:30
+msgid "Enter the description for the slider"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:36
+msgid "Slider Images"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:37
+msgid "Insert the images for this slider"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:43 resource/vc_map/text_carousal.php:52
+msgid "Auto Play Timeout"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:45
+msgid "Enter the auto play timeout for slider slides"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:50 resource/vc_map/text_carousal.php:59
+msgid "Smart Speed"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:52
+msgid "Enter the smart speed time for slider slides"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:57 resource/vc_map/text_carousal.php:66
+msgid "Slide Speed"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:59
+msgid "Enter the slide speed time for slider slides"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:64 resource/vc_map/text_carousal.php:73
+msgid "Auto Play"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:67
+msgid "Enable to auto play the carousel for slider slides"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:72 resource/vc_map/text_carousal.php:81
+msgid "Loop"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:75
+msgid "Enable circular loop for the carousel of slider slides"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:80 resource/vc_map/text_carousal.php:89
+msgid "Dots Navigation"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:83
+msgid "Enable dots navigation for slider slides"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:88 resource/vc_map/text_carousal.php:97
+msgid "Arrows Navigation"
+msgstr ""
+
+#: resource/vc_map/owl_slider.php:91
+msgid "Enable arrows navigation for slider slides"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:14
+msgid "Portfolios With Categories Tabs"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:24
+msgid "Enter the title to show in top of this section"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:29
+msgid "Afer Title"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:31
+msgid "Enter the after title text to show in top of this section"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:38
+msgid "Enter the tag line to show in top of this section"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:45
+#: resource/vc_map/products_grid.php:24
+msgid "Four Column"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:81
+msgid "Show Portfolio Date"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:83
+msgid "Portfolio Category"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:84
+msgid "Enable to show portfolio date."
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:118
+msgid "Enter the url for the button label of view all portfolios"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:129
+msgid "Show Tabs"
+msgstr ""
+
+#: resource/vc_map/portfolios_with_categories_tabs.php:130
+msgid "Enable to show portfolio categories tabs in this section"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:14
+msgid "Products Grid"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:22
+msgid "Products Grid Columns"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:25
+msgid "Choose products dispaly style for this section"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:30 resource/vc_map/products_list.php:22
+#: resource/vc_map/products_list_style2.php:22
+msgid "Select Products Categories"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:33 resource/vc_map/products_list.php:25
+#: resource/vc_map/products_list_style2.php:25
+msgid "Choose product categories for which product you want to show"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:41 resource/vc_map/products_list.php:33
+#: resource/vc_map/products_list_style2.php:33
+msgid "Select sorting oreder ascending or descending for product listing"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:46 resource/vc_map/products_list.php:38
+#: resource/vc_map/products_list_style2.php:38
+msgid "Order By"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:48 resource/vc_map/products_list.php:40
+#: resource/vc_map/products_list_style2.php:40
+msgid "Best Seller"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:48 resource/vc_map/products_list.php:40
+#: resource/vc_map/products_list_style2.php:40
+msgid "Top Rated"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:48 resource/vc_map/products_list.php:40
+#: resource/vc_map/products_list_style2.php:40
+msgid "By Price"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:48 resource/vc_map/products_list.php:40
+#: resource/vc_map/products_list_style2.php:40
+msgid "On Sale"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:48 resource/vc_map/products_list.php:40
+#: resource/vc_map/products_list_style2.php:40
+msgid "Featured"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:48 resource/vc_map/products_list.php:40
+#: resource/vc_map/products_list_style2.php:40
+msgid "Popular"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:48 resource/vc_map/products_list.php:40
+#: resource/vc_map/products_list_style2.php:40
+msgid "ID"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:49 resource/vc_map/products_list.php:41
+#: resource/vc_map/products_list_style2.php:41
+msgid "Select order by method for product listing"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:54 resource/vc_map/products_list.php:46
+#: resource/vc_map/products_list_style2.php:54
+msgid "Number Of Products"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:55 resource/vc_map/products_list.php:47
+#: resource/vc_map/products_list_style2.php:55
+msgid "Enter the number of products to show in this section"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:61 resource/vc_map/products_list.php:60
+#: resource/vc_map/products_list_style2.php:68
+msgid "Show Category"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:64 resource/vc_map/products_list.php:63
+#: resource/vc_map/products_list_style2.php:71
+msgid "Enable to show products category in this section"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:69 resource/vc_map/products_list.php:68
+#: resource/vc_map/products_list_style2.php:76
+msgid "Show Compare"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:72 resource/vc_map/products_list.php:71
+#: resource/vc_map/products_list_style2.php:79
+msgid "Enable to show product compare button in this section"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:77 resource/vc_map/products_list.php:76
+#: resource/vc_map/products_list_style2.php:84
+msgid "Show Rating"
+msgstr ""
+
+#: resource/vc_map/products_grid.php:80 resource/vc_map/products_list.php:79
+#: resource/vc_map/products_list_style2.php:87
+msgid "Enable to show products rating in this section"
+msgstr ""
+
+#: resource/vc_map/products_list.php:14
+msgid "Products List"
+msgstr ""
+
+#: resource/vc_map/products_list.php:53
+#: resource/vc_map/products_list_style2.php:61
+msgid "Description Limit"
+msgstr ""
+
+#: resource/vc_map/products_list.php:54
+#: resource/vc_map/products_list_style2.php:62
+msgid ""
+"Enter the number of words for product description to show in product listing"
+msgstr ""
+
+#: resource/vc_map/products_list_style2.php:14
+msgid "Products List style2"
+msgstr ""
+
+#: resource/vc_map/products_list_style2.php:46
+msgid "Gallery Position"
+msgstr ""
+
+#: resource/vc_map/products_list_style2.php:48
+msgid "Left Side Gallery"
+msgstr ""
+
+#: resource/vc_map/products_list_style2.php:48
+msgid "Right Side Gallery"
+msgstr ""
+
+#: resource/vc_map/products_list_style2.php:49
+msgid "Select Gallery Position for product listing"
+msgstr ""
+
+#: resource/vc_map/social_profile.php:14
+msgid "Social Profile"
+msgstr ""
+
+#: resource/vc_map/social_profile.php:24
+msgid "Enter the description"
+msgstr ""
+
+#: resource/vc_map/social_profile.php:43
+msgid "Enter the URL"
+msgstr ""
+
+#: resource/vc_map/social_profile.php:45
+msgid "Enter the url of social profile"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:14
+msgid "Testimonials With Contact Form"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:22
+msgid "Show Testimonials"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:25
+msgid "Enable to show testimonials in this section"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:31
+msgid "Enter the title for testimonials section"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:42
+msgid "Enter the after title text for testimonials section"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:52
+msgid "Title Tag"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:53
+msgid "Enter the title tag for testimonials section"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:63
+msgid "Number Of Testimonials"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:65
+msgid "Enter the number of testimonials to show in this section"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:77
+msgid "Select sorting order ascending or descending for testimonials listing"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:86
+msgid "Show Contact Form"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:89
+msgid "Enable to show contact form in this section"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:94
+msgid "Contact Form Title"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:95
+msgid "Enter the title for contact form section"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:105
+msgid "Contact Form Desccription"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:106
+msgid "Enter the description for contact form section"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:116
+msgid "Name Field"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:119
+msgid "Enable to use default name field in this form"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:124
+msgid "Message Field"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:127
+msgid "Enable to use default message field in this form"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:132
+msgid "Label"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:134
+msgid "Enter Contact form submit button label"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:141
+msgid "Enter an email to receive messages from contact form"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:154
+msgid "Field Type"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:156
+msgid "Select"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:157
+msgid "Select field type which you want to add in the form"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:162
+msgid "Select Box Options"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:163
+msgid ""
+"Enter the values for select field options with pipline operator. i.e Value1|"
+"Value2|Value3"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:173
+msgid "Field Placeholder"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:174
+msgid "Enter the field placeholder"
+msgstr ""
+
+#: resource/vc_map/testimonials_with_contact_form.php:182
+msgid "Enable to make required this field"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:14
+msgid "Text Carousal"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:23
+msgid "Select the background image for carousal section"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:29
+msgid "Carousal Items"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:37
+msgid "Enter the title of the carousal item"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:44
+msgid "Enter the description for the carousal item"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:54
+msgid "Enter the auto play timeout for the carousal"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:61
+msgid "Enter the smart speed time for the carousal"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:68
+msgid "Enter the slide speed time for the carousal"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:76
+msgid "Enable to auto play for the carousal"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:84
+msgid "Enable circular loop for the carousal"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:92
+msgid "Enable dots navigation for the carousal"
+msgstr ""
+
+#: resource/vc_map/text_carousal.php:100
+msgid "Enable arrows navigation for the carousal"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:9
+msgid "Container"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:11 resource/vc_map/vc_row.php:21
+#: resource/vc_map/vc_row.php:30 resource/vc_map/vc_row.php:43
+#: resource/vc_map/vc_row.php:56 resource/vc_map/vc_row.php:96
+#: resource/vc_map/vc_row.php:110 resource/vc_map/vc_row.php:166
+msgid "True"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:11 resource/vc_map/vc_row.php:21
+#: resource/vc_map/vc_row.php:30 resource/vc_map/vc_row.php:43
+#: resource/vc_map/vc_row.php:56 resource/vc_map/vc_row.php:96
+#: resource/vc_map/vc_row.php:110 resource/vc_map/vc_row.php:166
+msgid "False"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:12
+msgid "Show container for this section."
+msgstr ""
+
+#: resource/vc_map/vc_row.php:18 resource/vc_map/vc_row.php:27
+#: resource/vc_map/vc_row.php:40 resource/vc_map/vc_row.php:53
+#: resource/vc_map/vc_row.php:66 resource/vc_map/vc_row.php:81
+#: resource/vc_map/vc_row.php:93
+msgid "Miscellaneous"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:19
+msgid "Miscellaneous Settings"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:22
+msgid "Show miscellaneous settings for this section."
+msgstr ""
+
+#: resource/vc_map/vc_row.php:28
+msgid "No Padding"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:31
+msgid "Remove the Padding from top and bottom of the Section."
+msgstr ""
+
+#: resource/vc_map/vc_row.php:41
+msgid "Remove Top Space"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:44
+msgid "Remove top space for this section"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:54
+msgid "Remove Bottom Space"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:57
+msgid "Remove bottom space for this section"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:67
+msgid "Section Top Custom Space"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:69
+msgid ""
+"Enter the custom value for section top space. Note: The value will be "
+"calculated as pixels"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:82
+msgid "Section Bottom Custom Space"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:84
+msgid ""
+"Enter the value custom for section bottom space. Note: The value will be "
+"calculated as pixels"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:97
+msgid "Add gray background the Section."
+msgstr ""
+
+#: resource/vc_map/vc_row.php:107 resource/vc_map/vc_row.php:116
+#: resource/vc_map/vc_row.php:134 resource/vc_map/vc_row.php:146
+msgid "Parallax"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:108
+msgid "Show Parallax"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:111
+msgid "Make this section parallax then true."
+msgstr ""
+
+#: resource/vc_map/vc_row.php:117
+msgid "Parallax Layout Scheme"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:120
+msgid "No Layer"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:121
+msgid "Black"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:122
+msgid "White"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:123
+msgid "Gray"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:125
+msgid "Choose Style for Parallax."
+msgstr ""
+
+#: resource/vc_map/vc_row.php:135
+msgid "Parallax Background"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:137
+msgid "Make this section as parallax."
+msgstr ""
+
+#: resource/vc_map/vc_row.php:147
+msgid "Backgound Attachment "
+msgstr ""
+
+#: resource/vc_map/vc_row.php:150
+msgid "Scroll"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:151
+msgid "Fixed"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:153
+msgid "Choose background attachment type for this section"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:163 resource/vc_map/vc_row.php:172
+#: resource/vc_map/vc_row.php:184 resource/vc_map/vc_row.php:196
+#: resource/vc_map/vc_row.php:208
+msgid "Title Setting"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:167
+msgid "Make this section with title then true."
+msgstr ""
+
+#: resource/vc_map/vc_row.php:175
+msgid ""
+"Enter the title of this section. Note:Use %colorstart%Your Text%colorend% "
+"for color strings"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:187
+msgid "Enter the subtitle of this section."
+msgstr ""
+
+#: resource/vc_map/vc_row.php:197
+msgid "Short Description"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:199
+msgid "Enter the description of this section."
+msgstr ""
+
+#: resource/vc_map/vc_row.php:209
+msgid "Title Style"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:212
+msgid "Simple Style"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:215
+msgid "Choose title style for this section"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:224
+msgid "Overlap Section"
+msgstr ""
+
+#: resource/vc_map/vc_row.php:227
+msgid "Enable to overlap this section to upward"
+msgstr ""
+
+#: resource/vc_map/wellcome_to_store.php:14
+msgid "Wellcome To Store"
+msgstr ""
+
+#: resource/vc_map/wellcome_to_store.php:23
+msgid "Enter title for this section"
+msgstr ""
+
+#: resource/vc_map/wellcome_to_store.php:46
+msgid "Description Title"
+msgstr ""
+
+#: resource/vc_map/wellcome_to_store.php:62
+msgid "Buuton Text"
+msgstr ""
+
+#: resource/vc_map/wellcome_to_store.php:63
+msgid "Enter the text for read more button"
+msgstr ""
+
+#: resource/vc_map/wellcome_to_store.php:73
+msgid "Buuton Link"
+msgstr ""
+
+#: resource/vc_map/wellcome_to_store.php:74
+msgid "Enter the link for read more button"
+msgstr ""
+
+#: resource/vc_map/wellcome_to_store.php:85
+msgid "Wellcome Image"
+msgstr ""
+
+#: resource/vc_map/wellcome_to_store.php:86
+msgid "Select the welcome image for this section"
+msgstr ""
